@@ -7,7 +7,7 @@
 <meta property="og:description" content="{{ article.subtitle }}">
 <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
 <meta property="og:site_name" content="{{ SITENAME }}">
-<meta property="og:image" content="{{ SITEURL }}/{{ article.cover.img }}">
+<meta property="og:image" content="{{ SITEURL }}/{{ article.url }}{{ article.cover.img }}">
 <meta property="og:image:type" content="image/jpeg">
 {#
 <meta property="og:image:width" content="400">
@@ -16,7 +16,7 @@
 <meta name="twitter:title" content="{{ article.title }}" />
 <meta name="twitter:description" content="{{ article.subtitle }}" />
 <meta name="twitter:site" content="{{ SITEURL }}" />
-<meta name="twitter:image" content="{{ SITEURL }}/{{ article.cover.img }}" />
+<meta name="twitter:image" content="{{ SITEURL }}/{{ article.url }}{{ article.cover.img }}" />
 {% endblock %}
 
 {% block content %}
