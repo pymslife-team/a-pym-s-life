@@ -1,11 +1,14 @@
 {% extends "base.html" %}
+
+{% block social_desc %}
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ SITENAME }}" />
 <meta name="twitter:site" content="{{ SITEURL }}" />
 <meta name="twitter:description" content="{{ SITESUBTITLE }}" />
 <meta name="twitter:image" content="http://0.gravatar.com/avatar/b8cd9de32cfdffdc473a8e6fa25657b4" />
-{% block social_desc %} {% endblock %} {% block content %}
+{% endblock %}
 
+{% block content %}
 <!-- Banner with last article -->
 {% set last_article = articles|sort(attribute=date)|first %}
 <section id="banner">
