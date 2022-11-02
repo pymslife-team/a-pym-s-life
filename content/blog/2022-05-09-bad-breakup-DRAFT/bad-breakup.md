@@ -386,3 +386,27 @@ goooo
 
 Pierre-Yves Martin, [07/05/2022 21:28]
 comment ça ?
+
+## Première modification de l'histoire
+
+Quelques modification pour donner plus de corps au personnage du bro. Il est un peu faible dans son histoire. Voilà donc une idée pour les rendre plus intégré à l'histoire et le rendre plus "fondamental".
+
+Il ne serait pas un vieil ami ou un genre d'ange ayant survécu au dernier "oubli" du héro. Il serait plutôt un relicat de lui-même. Dans le dernier univers le héro aurait fini par craquer et tout oublier, détruisant tout l'univers et même sa propre identité, son essence. Seule une infime partie de lui, de sa mémoire et son essence aurait réussi à survivre : le bro.
+
+Tout le reste serait retourné à l'état fondamental initial avant de se condenser et de donner naissance d'un autre dieu (le héro actuel) et celui-ci créa d'un autre univers (le nôtre).
+
+À un moment le bro et le héro aurait fini par se rencontrer et le bro aurait pu lui raconter la précédente tragédie. C'est ainsi qu'il sont devenu amis : seuls entités immortelles et divine de l'univers... ça rapproche !
+
+Le bro a donc une partie des souvenir de l'ancien univers (dont le souvenir douloureux de ce qui a amené à l'oubli). Par contre, bien qu'il soit issu de la même essence et du même type d'évolution, les deux personnage sont deux entité indépendants et de personnalités différentes. Le héro est infiniment plus puissant que le bro qui lui n'a que des pouvoir mineurs. Par contre il peut posséder des pouvoirs totalement étrangers à notre monde (comme par exemple la magie qui n'existe pas dans notre monde) mais par contre aucune omniscience ou pouvoir de création/destruction comme il le possédait avant.
+
+On peut faire un parallèle avec le fractionnement de la personnalité/TDI suite à un trauma. Car le bro a vécu un vrai trauma qui a même amené ce qu'il était à effacer l'univers. Mais en plus il a vécu le fait de devenir moins que ce qu'il était. Pourtant il a réussi à se reconstruire (littéralement !) et à passer outre son trauma pour maintenant vivre paisiblement. Mais il a gardé une vigilance et une peur absolue de l'oubli du monde qu'il a vécu. Ce qui explique son comportement vis-à-vis du héro.
+
+Note : la partie de l'ancienne déïté qui à formé le bro ne "manque" pas à la nouvelle. Le dieu comme l'univers sont infini et leur enlever une partie ne les diminue absolument pas.
+
+Tout ceci ne serait pas expliquer directement dans l'histoire mais apparaitrait par bribes car à un moment il devrait expliquer tout ça à la BFF incrédule. Ce qui ressortirait en fait sous forme de citation de leur conversation au début de chaque chapitre + une scène où on apprend l'existence de cette conversation.
+
+On peut aussi envisager que la BFF acquiert un status particulier vis-à-vis de "l'oubli" actuel (en être relativement protégée) grâce à une intervention magique (issue des pouvoir de l'ancien univers) du bro sur elle car il sent qu'elle a un rôle à jouer. Ce qui permet aussi de mettre en place une tension supplémentaire entre eux car le bro pourrait menacer de mettre fin à sa protection quand elle est trop en opposition avec lui au moment du climax.
+
+On pourrait utiliser ce concept de pouvoir du bro pour introduire progressivement un peu de fantastique dans le récit par petite touches subtiles tout au long des premiers chapitres.
+
+Note : le héro n'a aucune capacité d'agir sur les pouvoir du bro car il sont issus d'un autre univers qu'il ne maîtrise pas. Mais si il détruit toute la réalité ces pouvoir n'auront aucun moyen d'agir donc c'est limité.
