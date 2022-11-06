@@ -1,11 +1,10 @@
 ---
 title: Malaisance et nid de frelons
 subtitle: Un festival, une grange, un nid de frelons… what could possibly go wrong ?
-category: pymfactor
 cover:
   img: frelon-verre.jpg
   comment: Roger, le frelon, avant le drame
-tags: [pas de bol, festival, insecte, malaisance]
+tags: [pymfactor, pas de bol, festival, insecte, malaisance]
 status: published
 ---
 

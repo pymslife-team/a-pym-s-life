@@ -1,12 +1,11 @@
 ---
 title: Gougoutte with a vengeance
 subtitle: De la dangerosité des fuites d'eau relativistes
-category: sciences
 series: Aventure d'une gougoutte
 cover:
   img: with-a-vengeance.jpg
   comment: Yippee-ki-yay dans l'espace
-tags: [someone was wrong, sciences, physique]
+tags: [someone was wrong, physique]
 status: published
 ---
 

@@ -5,8 +5,7 @@ summary: Moi tout ce que je voulais c'était aller à Belfort et revenir. Mais a
 cover:
   img: train-monopoly.jpg
   comment: Photo by Joshua Hoehne on Unsplash
-category: pymfactor
-tags: [pas de bol, transports]
+tags: [pymfactor, pas de bol, transports]
 status: published
 ...
 

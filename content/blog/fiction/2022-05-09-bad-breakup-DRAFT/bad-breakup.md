@@ -5,7 +5,6 @@ summary: ???
 cover:
   img: je-sais-pas.jpg
   comment: ????
-category: fiction
 tags: [dieu, love, memoire]
 status: draft
 ...

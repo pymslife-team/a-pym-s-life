@@ -1,11 +1,10 @@
 ---
 title: Les tontons veulent me flinguer
 subtitle: AEGIS - Agitateur Étudiant Gauchiste Improbable et Subversif
-category: pymfactor
 cover:
   img: crs_old.jpg
   comment: La psychologie, y'en a qu'une... défourailler le premier. C'est un peu sommaire, mais ça peut être efficace
-tags: [pas de bol, manifestation, étudiant, fruit]
+tags: [pymfactor, pas de bol, manifestation, étudiant, fruit]
 status: published
 ---
 

@@ -15,7 +15,7 @@ PATH = 'content'
 
 # metadata extraction from filename and path
 USE_FOLDER_AS_CATEGORY = False
-PATH_METADATA = '(?P<basepath>.*)/(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)/(?P<shortname>.*)\..*' # the name of the file itself doesn't matter
+PATH_METADATA = '(?P<basepath>.*)/(?P<category>.*)/(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)/(?P<shortname>.*)\..*' # the name of the file itself doesn't matter
 
 ARTICLE_PATHS = ['blog']
 ARTICLE_URL = 'blog/{date:%Y}-{date:%m}-{date:%d}-{slug}/'

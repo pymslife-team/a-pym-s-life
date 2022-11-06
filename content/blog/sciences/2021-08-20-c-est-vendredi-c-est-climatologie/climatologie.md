@@ -1,12 +1,11 @@
 ---
 title: C'est vendredi c'est climatologie
 subtitle: Filez moi une planète il faut que j'essaye des trucs...
-category: sciences
 series: Petit traité de Climatologique
 cover:
   img: climate.jpg
   comment: Photo by Markus Spiske on Unsplash
-tags: [someone was wrong, sciences, physique, geographie, climat]
+tags: [someone was wrong, physique, geographie, climat]
 status: published
 ---
 

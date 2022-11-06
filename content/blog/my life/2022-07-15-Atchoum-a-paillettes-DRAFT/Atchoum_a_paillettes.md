@@ -5,8 +5,7 @@ summary: Je suis sorti acheter des petit crottins de chèvres et je suis revenue
 cover:
   img: Cathryn-virginia-phone-with-blood.jpg
   comment: illustration by Cathryn Virginia for Vice.com
-category: pymfactor
-tags: [pas de bol, atchoum]
+tags: [pymfactor, pas de bol, atchoum]
 status: draft
 ...
 

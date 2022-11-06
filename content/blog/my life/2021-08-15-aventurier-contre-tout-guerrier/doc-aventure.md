@@ -1,11 +1,10 @@
 ---
 title: Aventurier contre tout guerrier
 subtitle: Pour quelqu'un comme moi qui a facilement tendance à la malchance, mon cher médecin, c'est très important c'que vous faites
-category: pymfactor
 cover:
   img: un_peu_de_velo.jpg
   comment: J'ai été faire du vélo avec des potes - photo by Alexander Schimmeck on unsplash
-tags: [medecin, blessure, sport, thuglife]
+tags: [pymfactor, medecin, blessure, sport, thuglife]
 status: published
 ---
 

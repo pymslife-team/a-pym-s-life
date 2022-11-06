@@ -5,7 +5,6 @@ summary: Un chant super dynamique qu'on ne chante pas assez souvent
 cover:
   img: eu_vim_la_da_bahia_cover.png
   comment: Les rue de Salvador à Bahia
-category: capoeira
 authors: [Raptor, PYM]
 tags: [capoeira, chant]
 status: published

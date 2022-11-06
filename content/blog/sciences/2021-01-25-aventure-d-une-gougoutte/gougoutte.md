@@ -1,12 +1,11 @@
 ---
 title: Aventure d'une gougoutte
 subtitle: Chargez la goutte d'eau et faites feu !
-category: sciences
 series: Aventure d'une gougoutte
 cover:
   img: crushed_earth.jpg
   comment: Photo by 愚木混株 cdd20 on Unsplash
-tags: [someone was wrong, sciences, physique]
+tags: [someone was wrong, physique]
 status: published
 ---
 

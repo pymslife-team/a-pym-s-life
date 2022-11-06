@@ -5,8 +5,7 @@ summary: Un jour d’été dans le RER j’allais sortir et une nana se lève, �
 cover:
   img: girl-in-subway.jpg
   comment: Photo by Sandy Ching on Unsplash
-category: pymfactor
-tags: [pas de bol, transports]
+tags: [pymfactor, pas de bol, transports]
 status: published
 ...
 

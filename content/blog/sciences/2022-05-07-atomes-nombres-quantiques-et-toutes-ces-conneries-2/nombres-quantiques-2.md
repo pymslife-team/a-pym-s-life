@@ -8,9 +8,8 @@ summary: >
 cover:
   img: petit-prince-couv.jpg
   comment: Le Petit Prince au milieu de ses couches électroniques de sa planète-atome
-category: sciences
 series: C'est quoi les nombres quantiques
-tags: [someone was wrong, sciences, physique, chimie, tableau périodique]
+tags: [someone was wrong, physique, chimie, tableau périodique]
 status: published
 ...
 

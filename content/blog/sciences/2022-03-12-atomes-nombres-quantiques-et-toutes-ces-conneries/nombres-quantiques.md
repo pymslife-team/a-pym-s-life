@@ -8,9 +8,8 @@ summary: >
 cover:
   img: solvay.jpg
   comment: La réunion de Solvay… THE place to be in 1927
-category: sciences
 series: C'est quoi les nombres quantiques
-tags: [someone was wrong, sciences, physique, chimie, tableau périodique]
+tags: [someone was wrong, physique, chimie, tableau périodique]
 status: published
 ...
 
