@@ -6,14 +6,13 @@
 
   <ul>
     <!-- Home page -->
-    <li><a href="{{ SITEURL }}//index.html">Accueil</a></li>
+    <li><a href="{{ SITEURL }}/index.html">Accueil</a></li>
 
     <!-- All categories -->
     <li>
       <span class="opener">Catégories</span>
       <ul>
-        {% for category, _ in categories|sort %} {# TODO create a category
-        template page #}
+        {% for category, _ in categories|sort %} {# TODO create a category template page #}
         <li>
           <a href="{{ SITEURL }}/{{ category.url }}">
             <i class="icon fa-solid fa-folder"></i>
