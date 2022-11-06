@@ -410,3 +410,11 @@ On peut aussi envisager que la BFF acquiert un status particulier vis-à-vis de 
 On pourrait utiliser ce concept de pouvoir du bro pour introduire progressivement un peu de fantastique dans le récit par petite touches subtiles tout au long des premiers chapitres.
 
 Note : le héro n'a aucune capacité d'agir sur les pouvoir du bro car il sont issus d'un autre univers qu'il ne maîtrise pas. Mais si il détruit toute la réalité ces pouvoir n'auront aucun moyen d'agir donc c'est limité.
+
+## idées sur la forme
+
+- Les titres de chapitres (découpage courts) ou parties (découpage long) seraient les noms des persos... mais avec un twist : au fur et à mesure que le héro sombre les noms serait de plus en plus raccourcis : Frédérique, Freddy, Fred, F. par exemple.
+- Idem dans le texte, les persos (en particulier la new girlfriend) vont voir leur nom se réduire
+- ...et le décor aussi !
+- Chaque chapitre en plus d'un titre commencerait par une citation qui serait en fait une citation (volontairement cryptique) de la discussion entre Bro et BFF quand il lui explique qui il est et donc qui le héro est... et globalement le concept d'univers ekpyrotique basé sur l'essence d'un dieu
+- Vers la fin, quand le héro pète un câble, il y aura un chapitre avec de plus en plus de mots manquants jusqu'à être illisible à part une phrase de la BFF (ou du Bro) qui finit par calmer le héro (temporairement ou définitivement). Ça peut marquer un climax tout en jouant sur la frustration de ne pas pouvoir lire le chapitre
