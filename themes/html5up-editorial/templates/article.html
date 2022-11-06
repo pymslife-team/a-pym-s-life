@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block social_desc %}
+{# Test OpengGraph metadata with the tool https://developers.facebook.com/tools/debug/ #}
 <meta property="og:locale" content="fr_FR">
 <meta property="og:type" content="article" />
 <meta property="og:title" content="{{ article.title }}">
@@ -12,6 +13,8 @@
 {#
 <meta property="og:image:width" content="400">
 <meta property="og:image:height" content="400"> #}
+{# Test twitter with the (not so good) tool https://cards-dev.twitter.com/validator (card overview doesn't work)
+#}
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ article.title }}" />
 <meta name="twitter:description" content="{{ article.subtitle }}" />
