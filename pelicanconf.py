@@ -24,7 +24,7 @@ STATIC_PATHS = [
     'blog/capoeira',
     'blog/fiction',
     'blog/mylife',
-    'blog/capoeira',
+    'blog/sciences',
 ]  # in order to have images in the same place as articles
 
 TIMEZONE = 'Europe/Rome'
