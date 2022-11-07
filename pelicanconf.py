@@ -3,8 +3,7 @@ LOAD_CONTENT_CACHE = False
 AUTHOR = 'PYM'
 SITENAME = "A PYM's life"
 SITEURL = 'http://localhost:8000'
-# For local serve use the command :
-# make html serve PELICANOPTS="-e SITEURL='\"http://localhost:8000\"'"
+# For local serve use the command : make html serve
 
 # Theme specific
 SITESUBTITLE = "Quand l'improbable est juste le quotidien"
@@ -18,9 +17,15 @@ USE_FOLDER_AS_CATEGORY = False
 PATH_METADATA = '(?P<basepath>.*)/(?P<category>.*)/(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)/(?P<shortname>.*)\..*' # the name of the file itself doesn't matter
 
 ARTICLE_PATHS = ['blog']
-ARTICLE_URL = 'blog/{date:%Y}-{date:%m}-{date:%d}-{slug}/'
+ARTICLE_URL = 'blog/{category}/{date:%Y}-{date:%m}-{date:%d}-{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
-STATIC_PATHS = ['blog']  # in order to have images in the same place as articles
+# TODO automatize this by listing the subdir of 'blog'
+STATIC_PATHS = [
+    'blog/capoeira',
+    'blog/fiction',
+    'blog/mylife',
+    'blog/capoeira',
+]  # in order to have images in the same place as articles
 
 TIMEZONE = 'Europe/Rome'
 
