@@ -16,6 +16,7 @@ pelican-series = "^2.1.0"
 pre-commit = "^2.20.0"
 pelican-webassets = "^2.0.0"
 cssmin = "^0.2.0"
+libsass = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
 

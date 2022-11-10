@@ -129,6 +129,17 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "libsass"
+version = "0.21.0"
+description = "Sass for Python: A straightforward binding of libsass for Python."
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.dependencies]
+six = "*"
+
+[[package]]
 name = "markdown"
 version = "3.4.1"
 description = "Python implementation of Markdown."
@@ -447,7 +458,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "flake8 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "5dc84bf3e01a10fef51cc02c5207edd36768d0abebd5e5f3dc64b114bdaa5c3e"
+content-hash = "9c0bb0320ee4781dad7702c7d6e123b303191e1338524aa420cad2a47922a7e1"
 
 [metadata.files]
 beautifulsoup4 = []
@@ -471,6 +482,7 @@ filelock = []
 identify = []
 importlib-metadata = []
 jinja2 = []
+libsass = []
 markdown = []
 markdown-word-count = [
     {file = "markdown-word-count-0.0.1.tar.gz", hash = "sha256:c360b90aade0d6c893f92dec1767427d6ddf51d4b553230a5d3b3a611d515e2d"},

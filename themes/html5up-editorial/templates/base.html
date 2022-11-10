@@ -19,7 +19,11 @@
   {% endblock %}
 
   {# template specific js and css #}
-  {% assets filters="cssmin", output="css/style.min.css", "css/main.css", "css/customisation.css" %}
+  {% assets
+  filters="libsass,cssmin",
+  output="css/style.min.css",
+  "css/main.scss",
+  "css/customisation.scss" %}
   <link rel="stylesheet" href="{{SITEURL}}/{{ASSET_URL}}">
   {% endassets %}
 

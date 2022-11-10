@@ -58,6 +58,7 @@ Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, 
 
 - [x] ajouter une une list "à faire" au README
 - [x] améliorer la gestion du js/css grâce au plugin [Web Assets](https://github.com/pelican-plugins/webassets)
+- [x] passer des css aux scss (le plugin [Web Assets](https://github.com/pelican-plugins/webassets) est surement le meilleur moyen)
 - [ ] ajouter un [justfile](https://github.com/casey/just)
   - [ ] pour ajouter un nouvel article (à partir d'un modèle)
   - [ ] pour passer un article de draft/published
@@ -65,7 +66,6 @@ Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, 
 - [ ] documenter correctement le `pelicanconf.py` (en particulier les variable que j'ai ajoutées et préciser que tout ce qui est en majuscule est ajouté au contexte)
 - [ ] passer tout le repo a [git lfs](https://git-lfs.github.com) (même d'historique)
 - [ ] générer des pdf pour les pages de chansons de capoeira
-- [ ] passer des css aux scss (le plugin [Web Assets](https://github.com/pelican-plugins/webassets) est surement le meilleur moyen)
 - [ ] mettre à jour la conf de [Pandoc](https://pandoc.org/MANUAL.html) avec toutes les extensions utilisées explicitement
 - [ ] valider les page avec le plugin [w3c_validate](https://github.com/getpelican/pelican-plugins/tree/master/w3c_validate) et ajouter ça au [pre-commit](https://pre-commit.com)
 - [ ] ajouter une étape de vérification pour s'assurer que les pages se génèrent bien au [pre-commit](https://pre-commit.com)

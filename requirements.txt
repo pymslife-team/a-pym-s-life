@@ -16,6 +16,7 @@ filelock==3.8.0; python_version >= "3.7"
 identify==2.5.6; python_version >= "3.7"
 importlib-metadata==5.0.0; python_version >= "3.7" and python_version < "3.10"
 jinja2==3.1.2; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.6.2"
+libsass==0.21.0
 markdown-word-count==0.0.1; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:c360b90aade0d6c893f92dec1767427d6ddf51d4b553230a5d3b3a611d515e2d \
     --hash=sha256:f716134f29cdde33b6f9c18d692690f7901ed9d911c1f3ccd6036bd5aacd17cf \
