@@ -25,7 +25,7 @@ Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, 
 - [ ] séparer le site et son contenu dans deux repositories différents
 - [ ] ajouter un système de commentaire via la metadata comments (par défaut True) voir [le tuto](https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
 - [ ] ajouter la possibilité d'avoir des pages privées avec le plugin [Encrypt Pelican Content](https://github.com/mindcruzer/pelican-encrypt-content)
-- [ ] ajouter une sitemap avec le plugin [Sitemap](https://github.com/pelican-plugins/sitemap)
+- [x] ajouter une sitemap avec le plugin [Sitemap](https://github.com/pelican-plugins/sitemap)
 - [ ] ajouter une licence globale et des licences spécifique pour chaque post (par défaut la licence globale grâce au plugin [Global licence](https://github.com/getpelican/pelican-plugins/tree/master/global_license))
 - [ ] utiliser le plugin [Image Process](https://github.com/pelican-plugins/image-process) pour générer les thumb et les des versions adaptée à la résolution d'affichage pour chaque image (à part les gifs)
 - [ ] remplacer le menu tags par un nuage de tags avec le plugin [Tag Cloud](https://github.com/pelican-plugins/tag-cloud)

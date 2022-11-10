@@ -66,7 +66,23 @@ DEFAULT_PAGINATION = 6
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
 
+# Sitemap plugin config
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "weekly",
+        "indexes": "weekly",
+        "pages": "monthly"
+    },
+    "exclude": []
+}
 
+# Pandc configuration
 PANDOC_DEFAULT_FILES = [
     "pandoc_defaults.yaml",
 ]
