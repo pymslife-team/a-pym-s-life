@@ -19,13 +19,20 @@
   {% endblock %}
 
   {# template specific js and css #}
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/customisation.css" />
-  <script defer src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-  <script defer src="{{ SITEURL }}/theme/js/browser.min.js"></script>
-  <script defer src="{{ SITEURL }}/theme/js/breakpoints.min.js"></script>
-  <script defer src="{{ SITEURL }}/theme/js/util.js"></script>
-  <script defer src="{{ SITEURL }}/theme/js/main.js"></script>
+  {% assets filters="cssmin", output="css/style.min.css", "css/main.css", "css/customisation.css" %}
+  <link rel="stylesheet" href="{{SITEURL}}/{{ASSET_URL}}">
+  {% endassets %}
+
+  {% assets
+  filters="rjsmin",
+  output="js/packed.js",
+  "js/jquery.min.js",
+  "js/browser.min.js",
+  "js/breakpoints.min.js",
+  "js/util.js",
+  "js/main.js" %}
+  <script defer src="{{SITEURL}}/{{ASSET_URL}}"></script>
+  {% endassets %}
 
   {# mathjax specific js. See: https://www.mathjax.org/#gettingstarted #}
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>

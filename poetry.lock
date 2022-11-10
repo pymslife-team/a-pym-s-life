@@ -41,6 +41,14 @@ python-versions = "*"
 test = ["flake8 (==3.7.8)", "hypothesis (==3.55.3)"]
 
 [[package]]
+name = "cssmin"
+version = "0.2.0"
+description = "A Python port of the YUI CSS compression algorithm."
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "distlib"
 version = "0.3.6"
 description = "Distribution utilities"
@@ -244,6 +252,21 @@ pelican = ">=4.5"
 markdown = ["markdown (>=3.2)"]
 
 [[package]]
+name = "pelican-webassets"
+version = "2.0.0"
+description = "Pelican plugin to manage web assets such as CSS and JS files"
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+pelican = ">=4.5,<5.0"
+webassets = ">=2.0,<3.0"
+
+[package.extras]
+markdown = ["markdown (>=3.2.2,<4.0.0)"]
+
+[[package]]
 name = "platformdirs"
 version = "2.5.2"
 description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
@@ -402,6 +425,14 @@ docs = ["proselint (>=0.13)", "sphinx (>=5.1.1)", "sphinx-argparse (>=0.3.1)", "
 testing = ["coverage (>=6.2)", "coverage-enable-subprocess (>=1)", "flaky (>=3.7)", "packaging (>=21.3)", "pytest (>=7.0.1)", "pytest-env (>=0.6.2)", "pytest-freezegun (>=0.4.2)", "pytest-mock (>=3.6.1)", "pytest-randomly (>=3.10.3)", "pytest-timeout (>=2.1)"]
 
 [[package]]
+name = "webassets"
+version = "2.0"
+description = "Media asset management for Python, with glue code for various web frameworks"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "zipp"
 version = "3.9.0"
 description = "Backport of pathlib-compatible object wrapper for zip files"
@@ -416,7 +447,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "flake8 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "3db8c8ae6c85cb44ab72fd2c9a4e23c5871f027b0da1e0c45ab935bb87c27733"
+content-hash = "5dc84bf3e01a10fef51cc02c5207edd36768d0abebd5e5f3dc64b114bdaa5c3e"
 
 [metadata.files]
 beautifulsoup4 = []
@@ -429,6 +460,7 @@ commonmark = [
     {file = "commonmark-0.9.1-py2.py3-none-any.whl", hash = "sha256:da2f38c92590f83de410ba1a3cbceafbc74fee9def35f9251ba9a971d6d66fd9"},
     {file = "commonmark-0.9.1.tar.gz", hash = "sha256:452f9dc859be7f06631ddcb328b6919c67984aca654e5fefb3914d54691aed60"},
 ]
+cssmin = []
 distlib = []
 docutils = []
 feedgenerator = [
@@ -504,6 +536,7 @@ pelican-series = [
     {file = "pelican-series-2.1.0.tar.gz", hash = "sha256:07227206f457d82ab66ec817e0af03c95cee893b1ed585abc974761f6f947e46"},
     {file = "pelican_series-2.1.0-py3-none-any.whl", hash = "sha256:ad959e590556f4af5b3f87a3ab375e7844b63cd415025315910158f4c38f8ff8"},
 ]
+pelican-webassets = []
 platformdirs = []
 pre-commit = []
 pygments = []
@@ -562,4 +595,5 @@ typogrify = [
 ]
 unidecode = []
 virtualenv = []
+webassets = []
 zipp = []

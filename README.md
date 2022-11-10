@@ -57,7 +57,7 @@ Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, 
 ### Outils et workflow
 
 - [x] ajouter une une list "à faire" au README
-- [ ] améliorer la gestion du js/css grâce au plugin [Web Assets](https://github.com/pelican-plugins/webassets)
+- [x] améliorer la gestion du js/css grâce au plugin [Web Assets](https://github.com/pelican-plugins/webassets)
 - [ ] ajouter un [justfile](https://github.com/casey/just)
   - [ ] pour ajouter un nouvel article (à partir d'un modèle)
   - [ ] pour passer un article de draft/published
