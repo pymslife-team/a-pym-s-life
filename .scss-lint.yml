@@ -1,0 +1,11 @@
+linters:
+  IdSelector:
+    enabled: false
+  QualifyingElement:
+    allow_element_with_class: true
+    allow_element_with_attribute: true
+  LeadingZero:
+    style: include_zero
+  PropertySpelling:
+    extra_properties:
+      - font-variant-caps

@@ -1,7 +1,7 @@
 ---
 title: Bad Breakup
 subtitle: ???
-summary: ???
+description: ???
 cover:
   img: je-sais-pas.jpg
   comment: ????

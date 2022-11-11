@@ -1,4 +1,3 @@
-{% set SUMMARY_LENGTH = 100 %}
 <!DOCTYPE html>
 <!--
   Editorial by HTML5 UP
@@ -14,27 +13,21 @@
   <title>{{ SITENAME }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  {% block social_desc %}
   {# twitter, facebook and other social media meta data #}
-  {% endblock %}
+  {% block social_desc %}{% endblock %}
 
   {# template specific js and css #}
   {% assets
   filters="libsass,cssmin",
   output="css/style.min.css",
-  "css/main.scss",
-  "css/customisation.scss" %}
-  <link rel="stylesheet" href="{{SITEURL}}/{{ASSET_URL}}">
+  "css/main.scss", "css/customisation.scss" %}
+  <link rel="stylesheet" href="{{SITEURL}}/{{ASSET_URL}}" />
   {% endassets %}
 
   {% assets
   filters="rjsmin",
   output="js/packed.js",
-  "js/jquery.min.js",
-  "js/browser.min.js",
-  "js/breakpoints.min.js",
-  "js/util.js",
-  "js/main.js" %}
+  "js/jquery.min.js", "js/browser.min.js", "js/breakpoints.min.js", "js/util.js", "js/main.js" %}
   <script defer src="{{SITEURL}}/{{ASSET_URL}}"></script>
   {% endassets %}
 
@@ -67,11 +60,8 @@
             {% endfor %}
           </ul>
         </header>
-        {% endblock %}
-
-        {% block content %}
-        {# main content of the page #}
-        {% endblock %}
+        {% endblock %} {% block content %} {# main content of the page #} {%
+        endblock %}
       </div>
     </div>
 

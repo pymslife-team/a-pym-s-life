@@ -1,7 +1,7 @@
 ---
 title: Paris - Belfort - Paris s'il-vous-plait
 subtitle: Vous avez toujours rêver de visiter Mulhouse
-summary: Moi tout ce que je voulais c'était aller à Belfort et revenir. Mais apparemment c'est pas possible…
+description: Moi tout ce que je voulais c'était aller à Belfort et revenir. Mais apparemment c'est pas possible…
 cover:
   img: train-monopoly.jpg
   comment: Photo by Joshua Hoehne on Unsplash

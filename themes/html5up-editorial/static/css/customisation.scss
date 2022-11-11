@@ -1,11 +1,12 @@
-/*
-Customisation made by PYM to the Editorial by HTML5 UP template
-*/
+// Customisation made by PYM to the Editorial by HTML5 UP template
 
-/**************************************************************************************/
-/********************************width of content**************************************/
-/* Centered text 75 characters wide is optimal for reading content if view port is    */
-/* enough. */
+$dialog-deco-color: rgba(139, 0, 0, 35%);
+$hastag-color: #000;
+
+//**************************************************************************************
+//********************************width of content**************************************
+// Centered text 75 characters wide is optimal for reading content if view port is
+// enough.
 
 #main section.content {
   display: block;
@@ -20,146 +21,148 @@ Customisation made by PYM to the Editorial by HTML5 UP template
   }
 }
 
-/**************************************************************************************/
-/*****************************images and inline images*********************************/
+//**************************************************************************************
+//*****************************images and inline images*********************************
 
 #main img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+
+  &.inline {
+    display: inline;
+  }
 }
 
-#main img.inline {
-  display: inline;
-}
-
-/**************************************************************************************/
-/****************************figure and figure caption*********************************/
+//**************************************************************************************
+//****************************figure and figure caption*********************************
 
 #main figure {
+  margin: 0 0 2em; // same as any paragraph
   width: 100%;
-  margin: 0 0 2em 0; /* same as any paragraph */
+
+  figcaption {
+    font-size: smaller;
+    text-align: center;
+  }
 }
 
-#main figure figcaption {
-  font-size: smaller;
-  text-align: center;
-}
+//**************************************************************************************
+//**********************************width of gifs***************************************
 
-/**************************************************************************************/
-/**********************************width of gifs***************************************/
-
-#main img[src$=".gif"] {
+#main img[src$='.gif'] {
   width: 60%;
 }
 
 @media screen and (max-width: 1680px) {
-  #main img[src$=".gif"] {
+  #main img[src$='.gif'] {
     width: 60%;
   }
 }
+
 @media screen and (max-width: 1280px) {
-  #main img[src$=".gif"] {
+  #main img[src$='.gif'] {
     width: 80%;
   }
 }
+
 @media screen and (max-width: 736px) {
-  #main img[src$=".gif"] {
+  #main img[src$='.gif'] {
     width: 100%;
   }
 }
 
-/**************************************************************************************/
-/**********************************dialog formating************************************/
-/* the line-block class is applied to all pandoc line_block paragraph.                */
+//**************************************************************************************
+//**********************************dialog formating************************************
+//* the line-block class is applied to all pandoc line_block paragraph.                *
 
 #main .dialog {
+  border-left: thick solid $dialog-deco-color;
   font-style: italic;
-  border-left: thick solid rgba(139, 0, 0, 35%);
+  margin: 0 0 2em; // same as any paragraph
   padding-left: 1em;
   padding-right: 4em;
-  margin: 0 0 2em 0; /* same as any paragraph */
   position: relative;
+
+  &::before {
+    color: $dialog-deco-color;
+    content: '»';
+    font-size: 10em;
+    font-style: italic;
+    position: absolute;
+    right: 0;
+    top: -0.8em;
+  }
+
+  // Solution found to have spacing between protagonists speeches.
+  // Taken from: https://stackoverflow.com/a/31633969
+  br {
+    content: '';
+    display: block; // makes it have a width
+    margin-top: 0.8em;
+  }
 }
 
-#main .dialog::before {
-  content: "»";
-  color: rgba(139, 0, 0, 35%);
-  font-size: 10em;
-  font-style: italic;
-  position: absolute;
-  right: 0;
-  top: -0.8em;
-}
-
-/* Solution found to have spacing between protagonists speeches. */
-/* Taken from: https://stackoverflow.com/a/31633969 */
-#main .dialog br {
-  display: block; /* makes it have a width */
-  content: "";
-  margin-top: 0.8em;
-}
-
-/**************************************************************************************/
-/************************************big centered text*********************************/
+//**************************************************************************************
+//************************************big centered text*********************************
 
 #main .big-centered {
-  text-align: center;
   font-size: 3em;
+  text-align: center;
 }
 
-/**************************************************************************************/
-/********************************hashtag link decoration*******************************/
+//**************************************************************************************
+//********************************hashtag link decoration*******************************
 
 #main .hashtag {
-  text-decoration: none;
   border-bottom: 0;
-  color: black;
+  color: $hastag-color;
+  text-decoration: none;
 }
 
 #main .small {
   font-size: smaller;
 }
 
-/**************************************************************************************/
-/**************************************song formating**********************************/
+//**************************************************************************************
+//**************************************song formating**********************************
 
 #main .song {
-  width: 60ch;
+  border-left: thick solid $dialog-deco-color;
   font-style: italic;
-  border-left: thick solid rgba(139, 0, 0, 35%);
+  margin: 0 0 2em; // same as any paragraph
   padding-left: 1em;
   padding-right: 4em;
-  margin: 0 0 2em 0; /* same as any paragraph */
   position: relative;
-}
+  width: 60ch;
 
-#main .song h2 {
-  text-align: center;
-  font-variant-caps: small-caps;
+  h3 {
+    font-variant-caps: small-caps;
+    text-align: center;
+  }
+
+  &.lang-fr h3::after {
+    content: ' 🇫🇷';
+  }
+
+  &.lang-br h3::after {
+    content: ' 🇧🇷';
+  }
+
+  &.lang-en h3::after {
+    content: ' 🇬🇧';
+  }
 }
 
 @media screen and (min-width: 1040px) {
-  #main .song h2 {
+  #main .song h3 {
     break-before: column;
   }
 }
 
-#main .song.lang-fr h2::after {
-  content: " 🇫🇷";
-}
-
-#main .song.lang-br h2::after {
-  content: " 🇧🇷";
-}
-
-#main .song.lang-en h2::after {
-  content: " 🇬🇧";
-}
-
-/**************************************************************************************/
-/*******************************multi-column translation*******************************/
+//**************************************************************************************
+//*******************************multi-column translation*******************************
 
 @media screen and (min-width: 1040px) {
   #main .translation {
@@ -168,6 +171,7 @@ Customisation made by PYM to the Editorial by HTML5 UP template
     margin-right: -30ch;
   }
 }
+
 @media screen and (max-width: 1040px) {
   #main .translation {
     column-count: 1;

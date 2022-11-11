@@ -1,24 +1,26 @@
-{% extends "base.html" %}
-
-{% block social_desc %}
-<meta property="og:locale" content="fr_FR">
+{% extends "base.html" %} {% block social_desc %}
+<meta property="og:locale" content="fr_FR" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{{ SITENAME }}">
-<meta property="og:description" content="{{ SITESUBTITLE }}">
-<meta property="og:url" content="{{ SITEURL }}">
-<meta property="og:site_name" content="{{ SITENAME }}">
-<meta property="og:image" content="https://secure.gravatar.com/avatar/b8cd9de32cfdffdc473a8e6fa25657b4?size=400">
-<meta property="og:image:width" content="400">
-<meta property="og:image:height" content="400">
-<meta property="og:image:type" content="image/jpeg">
+<meta property="og:title" content="{{ SITENAME }}" />
+<meta property="og:description" content="{{ SITESUBTITLE }}" />
+<meta property="og:url" content="{{ SITEURL }}" />
+<meta property="og:site_name" content="{{ SITENAME }}" />
+<meta
+  property="og:image"
+  content="https://secure.gravatar.com/avatar/b8cd9de32cfdffdc473a8e6fa25657b4?size=400"
+/>
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="400" />
+<meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ SITENAME }}" />
 <meta name="twitter:site" content="{{ SITEURL }}" />
 <meta name="twitter:description" content="{{ SITESUBTITLE }}" />
-<meta name="twitter:image" content="https://secure.gravatar.com/avatar/b8cd9de32cfdffdc473a8e6fa25657b4?size=400" />
-{% endblock %}
-
-{% block content %}
+<meta
+  name="twitter:image"
+  content="https://secure.gravatar.com/avatar/b8cd9de32cfdffdc473a8e6fa25657b4?size=400"
+/>
+{% endblock %} {% block content %}
 <!-- Banner with last article -->
 {% set last_article = articles|sort(attribute=date)|first %}
 <section id="banner">
@@ -28,18 +30,24 @@
       <p>{{ last_article.subtitle }}</p>
     </header>
     <p>
-      {% if last_article.summary is defined %} {{ last_article.summary }} {%
-      else %} {{ last_article.content|truncate(SUMMARY_LENGTH) }} {% endif %}
+      {% if last_article.description is defined %} {{ last_article.description
+      }} {% else %} {{ last_article.content|truncate(DESCRIPTION_LENGTH) }} {%
+      endif %}
     </p>
     <ul class="actions">
       <li>
-        <a href="{{ SITEURL }}/{{ last_article.url }}" class="button big">Lire la suite…</a>
+        <a href="{{ SITEURL }}/{{ last_article.url }}" class="button big"
+          >Lire la suite…</a
+        >
       </li>
     </ul>
     {# TODO make this part smaller #}
     <p>
       Publié le
-      <time class="published" datetime="{{ last_article.date | strftime('%Y-%m-%d') }}">
+      <time
+        class="published"
+        datetime="{{ last_article.date | strftime('%Y-%m-%d') }}"
+      >
         {{ last_article.date | strftime('%-d %b %Y') }}
       </time>
       par {% if last_article.authors is defined %} {% for author in
@@ -59,9 +67,11 @@
 
   <!-- Cover image -->
   <span class="image object">
-    <a href="{{ SITEURL }}/{{ last_article.url }}"><img
+    <a href="{{ SITEURL }}/{{ last_article.url }}"
+      ><img
         src="{{ SITEURL }}/{{ last_article.url }}/{{ last_article.cover.img }}"
-        alt="{{ last_article.cover.comment }}" /></a>
+        alt="{{ last_article.cover.comment }}"
+    /></a>
   </span>
 </section>
 
@@ -74,13 +84,17 @@
     {% for article in articles_page.object_list %}
     <article>
       <!-- Cover image -->
-      <a href="{{ SITEURL }}/{{ article.url }}" class="image"><img
-          src="{{ SITEURL }}/{{ article.url }}{{ article.cover.img }}" alt="{{ article.cover.comment }}" /></a>
+      <a href="{{ SITEURL }}/{{ article.url }}" class="image"
+        ><img
+          src="{{ SITEURL }}/{{ article.url }}{{ article.cover.img }}"
+          alt="{{ article.cover.comment }}"
+      /></a>
 
       <h3>{{ article.title }}</h3>
       <p>
-        {% if article.summary is defined %} {{ article.summary }} {% else %} {{
-        article.content|striptags|truncate(SUMMARY_LENGTH) }} {% endif %}
+        {% if article.description is defined %} {{ article.description }} {%
+        else %} {{ article.content|striptags|truncate(DESCRIPTION_LENGTH) }} {%
+        endif %}
       </p>
       <ul class="actions">
         <li>
@@ -90,7 +104,10 @@
       {# TODO make this part smaller #}
       <p>
         Publié le
-        <time class="published" datetime="{{ article.date | strftime('%Y-%m-%d') }}">
+        <time
+          class="published"
+          datetime="{{ article.date | strftime('%Y-%m-%d') }}"
+        >
           {{ article.date | strftime('%-d %b %Y') }}
         </time>
         par
@@ -108,13 +125,17 @@
     <ul class="pagination">
       {% if dates_page.has_previous() %}
       <li>
-        <a href="{{ SITEURL }}/{{ dates_previous_page.url }}" class="button">Plus récents</a>
+        <a href="{{ SITEURL }}/{{ dates_previous_page.url }}" class="button"
+          >Plus récents</a
+        >
       </li>
       {% else %}
       <li><a href="" class="button disabled">Plus récents</a></li>
       {% endif %} {% if articles_page.has_next() %}
       <li>
-        <a href="{{ SITEURL }}/{{ dates_next_page.url }}" class="button">Plus anciens</a>
+        <a href="{{ SITEURL }}/{{ dates_next_page.url }}" class="button"
+          >Plus anciens</a
+        >
       </li>
       {% else %}
       <li><a href="" class="button disabled">Plus anciens</a></li>

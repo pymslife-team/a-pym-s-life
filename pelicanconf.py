@@ -63,6 +63,9 @@ CONTACTS = [
 # Number of object per index page
 DEFAULT_PAGINATION = 6
 
+# Max length of the description of an article when displayed in the short summary
+DESCRIPTION_LENGTH = 100
+
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
 
