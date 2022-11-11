@@ -1,6 +1,9 @@
 # Pelican
 output/
 
+# pelican-seo report
+seo_report.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

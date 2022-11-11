@@ -7,6 +7,8 @@ cover:
   comment: ????
 tags: [dieu, love, memoire]
 status: draft
+Noindex: True
+Disallow: True
 ...
 
 # Synopsis et discussion

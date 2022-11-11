@@ -82,6 +82,10 @@ SITEMAP = {
     "exclude": []
 }
 
+# pelican-seo configuration
+SEO_REPORT = True
+SEO_ENHANCER = True
+
 # Pandc configuration
 PANDOC_DEFAULT_FILES = [
     "pandoc_defaults.yaml",

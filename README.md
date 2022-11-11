@@ -29,7 +29,7 @@ Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, 
 - [ ] ajouter une licence globale et des licences spécifique pour chaque post (par défaut la licence globale grâce au plugin [Global licence](https://github.com/getpelican/pelican-plugins/tree/master/global_license))
 - [ ] utiliser le plugin [Image Process](https://github.com/pelican-plugins/image-process) pour générer les thumb et les des versions adaptée à la résolution d'affichage pour chaque image (à part les gifs)
 - [ ] remplacer le menu tags par un nuage de tags avec le plugin [Tag Cloud](https://github.com/pelican-plugins/tag-cloud)
-- [ ] utiliser le plugin [pelican-seo](https://github.com/MaevaBrunelles/pelican-seo) qui gère le `robot.txt` et des schema `JSON-LD` pour les moteurs de recherche
+- [x] utiliser le plugin [pelican-seo](https://github.com/MaevaBrunelles/pelican-seo) qui gère le `robot.txt` et des schema `JSON-LD` pour les moteurs de recherche
 - [ ] ajouter les articles suivants/précédents grâce au plugin [Neighboor Articles](https://github.com/pelican-plugins/neighbors) ou [Multi Neighbors](https://github.com/davidlesieur/multi_neighbors)
 - [ ] ajouter un "estimated reading time" aux article (homepage, categories et article) peut-être avec le plugin [pelican-ert](https://github.com/nogaems/pelican-ert) ou [pelican-readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime)
 - [ ] ajouter la gestion des évènements avec le plugin [Events](https://github.com/getpelican/pelican-plugins/tree/master/events) (pour l'academia)

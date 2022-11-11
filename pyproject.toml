@@ -18,6 +18,8 @@ pelican-webassets = "^2.0.0"
 cssmin = "^0.2.0"
 libsass = "^0.21.0"
 pelican-sitemap = "^1.0.2"
+pelican-seo = "^1.2.2"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 

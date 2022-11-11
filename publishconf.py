@@ -15,6 +15,10 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+# pelican-seo configuration
+SEO_REPORT = False
+SEO_ENHANCER = True
+
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
