@@ -1,7 +1,7 @@
 ---
 title: Atomes, nombres quantiques et toutes ces conneries III
 subtitle: Où vous aller apprendre à ranger la chambre d'un ado…
-summary: >
+description: >
   « **Z. :** Pyyym j'peux me plaindre deux minutes de mon cours de chimie ? Pasque j'ai pas tout tout compris…<br>
   **PYM :** Mmmmh oui aucun prob…<br>
   **Z. :** C'était un bail à base de quatre nombres quantiques et de sous-couches électroniques de chépaquoi. »
