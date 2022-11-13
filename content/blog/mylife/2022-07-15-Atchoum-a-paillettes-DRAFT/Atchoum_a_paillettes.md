@@ -1,7 +1,7 @@
 ---
 title: Atchoum à paillettes
 subtitle: De la détermination expérimentale de la force d'un éternuement
-summary: Je suis sorti acheter des petit crottins de chèvres et je suis revenue avec une nana qui pisse le sang par le crâne…
+description: Je suis sorti acheter des petit crottins de chèvres et je suis revenue avec une nana qui pisse le sang par le crâne…
 cover:
   img: Cathryn-virginia-phone-with-blood.jpg
   comment: illustration by Cathryn Virginia for Vice.com

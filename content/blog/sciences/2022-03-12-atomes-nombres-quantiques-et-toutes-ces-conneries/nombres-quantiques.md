@@ -1,7 +1,7 @@
 ---
 title: Atomes, nombres quantiques et toutes ces conneries I
 subtitle: "ou comment se la péter en soirée en disant « Moi j'ai compris la physique quantique ! » (et avoir tord… mais c'est pas grave… il y a les cocktails pour oublier ça)"
-summary: >
+description: >
   « **Z. :** Pyyym j'peux me plaindre deux minutes de mon cours de chimie ? Pasque j'ai pas tout tout compris…<br>
   **PYM :** Mmmmh oui aucun prob…<br>
   **Z. :** C'était un bail à base de quatre nombres quantiques et de sous-couches électroniques de chépaquoi. »
