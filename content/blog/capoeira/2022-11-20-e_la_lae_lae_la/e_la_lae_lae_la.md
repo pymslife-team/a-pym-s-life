@@ -45,7 +45,7 @@ capoeira régionale.
 | E capoeira começou,
 | Como roda tradicional,
 | Era dança e defesa
-| Mesmo no canavial,
+| Mesmo no canavial
 |
 | La lae lae la...
 |
@@ -168,6 +168,24 @@ suite !
 C'est pratique si jamais vous avez un petit trou de mémoire sur le couplet suivant ou
 que vous voulez faire durer un peu cette chanson.
 
+**ATTENTION** Dans le second couplet, souvent on entend chanter le dernier vers
+« *Negro no canavial* » (c'est le cas dans la vidéo par exemple) mais le bon texte
+semble bien être « mesmo no canavial » (sinon la phrase n'a pas beaucoup de sens en
+fait) :
+
+(capoeira) era dança e defesa mesmo no canavial
+
+(la capoeira) était de la danse et de la défense même dans le champ de canne à sucre
+
+Mais bon ça reste de la tradition orale et il est tout à fait possible d'entendre tout
+de même la version avec "negro no canavial" et même de nombreuses autres variations.
+C'est vivant les chant de capoeira... et puis ça donne un bon moyen de discuter avec la
+chanteuse ou le chanteur après le cours 😉 :
+
+::: {.dialog}
+ « Alors, toi, tu chantes avec "mesmo", je connaissais pas bla bla bla 🍻/🍹 »
+:::
+
 ## Vocabulaire
 
 Si vous vous demandez ce que veux dire le chœur, euh... c'est assez simple : c'est
@@ -181,7 +199,7 @@ l'équivalent de "la la la". Il n'y a pas de traduction autre que ça.
 | **ja**          | déjà                               |
 | **a dança**     | la danse                           |
 | **a defeça**    | la défense                         |
-| **o canavial**  | la plantation de canne-à-sucre     |
+| **o canavial**  | la plantation de canne à sucre     |
 | **mesmo**       | même                               |
 | **o estivador** | le docker                          |
 | **a beira**     | le bord                            |
@@ -216,19 +234,19 @@ l'équivalent de "la la la". Il n'y a pas de traduction autre que ça.
 
 ## Culture
 
-### Les plantation de canne-à-sucre
+### Les plantations de canne à sucre
 
-Les **canavial** était les plantation de canne-à-sucre dans lesquelles de nombreux
-esclaves furent forcé de travaillé. La culture de la canne nécessite beaucoup de main
+Les **canavials** était les plantations de canne à sucre dans lesquelles de nombreux
+esclaves furent forcé de travailler. La culture de la canne nécessite beaucoup de main
 d'œuvre et était très rentable pour les pays européens qui revendaient le sucre.
 
-C'est un lieu important pour la capoeira car c'est, entre autre, dans ces plantation
+C'est un lieu important pour la capoeira car c'est, entre autre, dans ces plantations
 qu'elle s'est développée.
 
 ### Mestre Bimba
 
 Ce chant parle beaucoup de Mestre Bimba créateur de la capoeira regional. Il y aurait
-des articles entier à écrire sur ce Mestre (et il y en a plein sur le net !). Mais ici
+des articles entiers à écrire sur ce Mestre (et il y en a plein sur le net !). Mais ici
 retenons déjà son :
 
 - nom complet : **Manuel dos Reis Machado**
@@ -252,6 +270,6 @@ C'était un jeu de malice et feinte qui se pratiquait uniquement avec les pieds.
 
 
 Renato Muller du groupe Capoeiragem Carioca (groupe de capoeira de Rio de Janeiro) a
-fait des recherches sur la batuque et on peu trouver pas mal d'info sur
+fait des recherches sur la batuque et on peut trouver pas mal d'infos sur
 [sa page sur la batuque](http://razorwire.wz.cz/Batuque.htm) et sur
 [la stratégie en batuque](http://razorwire.wz.cz/batuquetactics.htm).
