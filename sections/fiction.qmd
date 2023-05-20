@@ -1,0 +1,13 @@
+---
+title: "Fiction"
+lang: fr
+comments: false
+listing:
+  contents: fiction
+  sort: "date desc"
+  type: grid
+  categories: cloud
+---
+
+En plus des aventures réelles qui lui arrivent en permanence, PYM écrit aussi de petites histoires et parfois même de longues histoires. Et il n'est pas le seul, on retrouvera ici aussi des textes de quelques invité⋅e⋅s qui seront toujours les bienvenu⋅e⋅s.
+

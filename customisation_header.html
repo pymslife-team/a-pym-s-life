@@ -1,0 +1,133 @@
+<!-- adding rought annotations -->
+<script type="module">
+    import { annotate } from 'https://unpkg.com/rough-notation?module';
+
+    // const boxes = document.querySelectorAll('.box');
+
+    // boxes.forEach( box => {
+    //     annotate(box, { type: 'box', color: 'red' , animate: false, strokeWidth: 0.5}).show();
+    // });
+
+    const box = document.querySelectorAll(".box, pre code, #TOC, thead");
+    const strong_underline = document.querySelectorAll("h2:not(#toc-title):not(#quarto-appendix h2)");
+    const underline = document.querySelectorAll(".underline, tbody>tr, h2#toc-title");
+    const highlight = document.querySelectorAll(".highlight, .quarto-title-meta-heading");
+    const grey = document.querySelectorAll("pre.sourceCode");
+    const bracket = document.querySelectorAll(".bracket, .dialog, blockquote");
+    const strike = document.querySelectorAll(".strike");
+    const cross = document.querySelectorAll(".cross, del");
+    const circle = document.querySelectorAll(".circle");
+
+    box.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'box',
+                color: 'black',
+                animate: false,
+                strokeWidth: 0.5
+            }
+        ).show();
+    });
+
+    strong_underline.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'underline',
+                color: 'black' ,
+                animate: false,
+                strokeWidth: 1,
+                iterations: 5
+            }
+        ).show();
+    });
+
+    underline.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'underline',
+                color: 'black' ,
+                animate: false,
+                strokeWidth: 1,
+                iterations: 2,
+                multiline: true
+            }
+        ).show();
+    });
+
+    highlight.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'highlight',
+                color: '#FFF176',
+                animate: false,
+                multiline: true
+            }
+        ).show();
+    });
+
+    grey.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'highlight',
+                color: '#d3d3d3',
+                animate: false
+            }
+        ).show();
+    });
+
+    bracket.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'bracket',
+                color: '#8b000059', // same as $dialog-deco-color in customisation.scss
+                strokeWidth: 3.0,
+                brackets: 'left',
+                animate: false
+            }
+        ).show();
+    });
+
+    strike.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'strike-through',
+                color: 'red',
+                strokeWidth: 0.75,
+                animate: false,
+                multiline: true
+            }
+        ).show();
+    });
+
+    cross.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'crossed-off',
+                color: 'red',
+                strokeWidth: 0.75,
+                animate: false,
+                multiline: true
+            }
+        ).show();
+    });
+
+    circle.forEach(function(userItem) {
+        annotate(
+            userItem,
+            {
+                type: 'circle',
+                color: 'red',
+                strokeWidth: 0.75,
+                animate: false
+            }
+        ).show();
+    });
+</script>

@@ -12,12 +12,3 @@ repos:
     rev: "v0.59.0"
     hooks:
       - id: scss-lint
-  - repo: local
-    hooks:
-      - id: export-requirements
-        name: Convert pyproject.toml to requirements.txt
-        description: Generate requirements.txt pyproject.toml for backwards compatibility.
-        language: system
-        entry: poetry export -f requirements.txt --without-hashes -o requirements.txt
-        files: "^pyproject.toml$"
-        pass_filenames: false

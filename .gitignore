@@ -1,9 +1,3 @@
-# Pelican
-output/
-
-# pelican-seo report
-seo_report.html
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -13,9 +7,11 @@ __pycache__/
 Thumbs.db
 ehthumbs.db
 
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem
-
 # Local Netlify folder
 .netlify
+
+# Quarto tmp dir
+/.quarto/
+_site/
+
+/.luarc.json

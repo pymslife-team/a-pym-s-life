@@ -1,0 +1,18 @@
+---
+title: "A PYM's life"
+lang: fr
+comments: false
+listing:
+  contents:
+    - sections/capoeira
+    - sections/sciences
+    - sections/mylife
+    - sections/fiction
+  sort: "date desc"
+  type: grid
+  # grid-columns: 2
+  categories: cloud
+---
+
+Aventures improbables ? Détails scientifiques que vous avez pas demandé ? Un chant de capoeira ? Voilà les dernière news de la PYM's Life.
+
