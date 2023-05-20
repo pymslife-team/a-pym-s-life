@@ -1,0 +1,11 @@
+---
+title: "À propos"
+lang: fr
+comments: false
+---
+
+Ce site est un petit bout de ma vie jetée sur le net... bon ma vie est compliquée alors faut s'attendre à ce que le site soit un peu comme ça aussi.
+
+Sinon niveau contenu, il y aura pas mal d'aventure authentiquement improbables, de la science débilement complexe, et quelques uns des textes purement fictionnels que j'écris régulièrement. Ah et de la capoeira vu que je suis prof de capoeira.
+
+Tous les textes ici ne sont pas nécessairement de moi : certains ont été relu ou inspiré par d'autres mais il y aura peut-être aussi quelques texte écrit par des amis de passage.

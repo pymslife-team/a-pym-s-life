@@ -1,0 +1,56 @@
+---
+title: "L'auteur"
+lang: fr
+comments: false
+about:
+  id: pym-profile
+  template: jolla
+  image: /resources/pym.jpg
+  image-shape: round
+  image-width: 50%
+  links: 
+    - icon: telegram
+      text: Telegram
+      href: "https://t.me/pymaldebaran"
+    - icon: mastodon
+      text: Mastodon
+      href: "https://mastodon.obspm.fr/@pmartin"
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/pymaldebaran
+    - icon: github
+      text: Gibhub
+      href: https://github.com/pymaldebaran
+---
+
+:::{#pym-profile}
+
+PYM est l'un des plus mauvais surnoms possibles, c'est juste les initiales de mon vrai nom Pierre-Yves Martin… Mais bon, plein d'amis étranger trouvaient ça imprononçable, à moins que ça soit moi qui ait trouvé ça trop long à marqué sur les formulaire d'inscription aux sports l'été. Les deux version sont un peu vraies et aucune n'est entièrement fausse.
+
+:::
+
+## Il fait quoi ?
+
+PYM à fait beaucoup de boulots.:
+
+- développeur de jeux vidéo
+- serveur dans une boulangerie française à l'étranger (j'étais très très mauvais)
+- prof de physique-chimie au lycée
+- ingé/dev pour le financement privé de la recherche
+- auteur de jeux de plateau
+- ingénieur d'étude à l'[Observatoire de Paris à Meudon](https://fr.wikipedia.org/wiki/Observatoire_de_Paris)
+
+## Y pas que le boulot dans la vie
+
+PYM fait plein de truc en dehors du boulot :
+
+- prof de capoeira dans l'école ANGA Capoeira de MEstre Maxuel
+- il écrit plein de trucs (d'où ce joli site)
+- il fait tout plein de voile quand il peut (et à Paris c'est pas forcément facile)
+- il lit des tonnes de trucs
+- il collectionne les livre d'enseignement physique-chimie anciens
+- il dessine de temps en temps
+- il écrit beaucoup du plein de truc…
+
+C'est en partie ce dernier point qui est à l'origine de la création de ce site. L'autre raison c'est que les amis de PYM lui ont demandé pleind e fois d'écrire toutes les choses improbable qui lui arrive. Voilà c'est fait, et il en manque plein !
+

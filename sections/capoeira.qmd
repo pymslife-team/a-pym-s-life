@@ -1,0 +1,14 @@
+---
+title: "Capoeira"
+lang: fr
+comments: false
+listing:
+  contents: capoeira
+  sort: "date desc"
+  type: grid
+  categories: cloud
+---
+
+Étant prof de capoeira à Paris, je crée de temps en temps des contenus pour mes élèves, surtout des aides pour le chant, mais, on ne sait jamais, je vais peut-être diversifier !
+
+Vous trouverez ici tout ce qui concerne la capoeira sur ce site, axé camarada !

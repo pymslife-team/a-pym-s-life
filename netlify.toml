@@ -1,21 +1,57 @@
-# example netlify.toml
-[build]
-  command = "make publish"
-  functions = "netlify/functions"
-  publish = "output"
+# Redirections from the old Pelican version of the blog to the new Quarto version
+[[redirects]]
+  from = "/index.html"
+  to = ""
 
-  ## Uncomment to use this redirect for Single Page Applications like create-react-app.
-  ## Not needed for static site generators.
-  #[[redirects]]
-  #  from = "/*"
-  #  to = "/index.html"
-  #  status = 200
+[[redirects]]
+  from = "/blog/capoeira/2022-10-17-eu_vim_la_da_bahia_pra_lhe_ver/"
+  to = "/sections/capoeira/eu_vim_la_da_bahia_pra_lhe_ver/eu_vim_la_da_bahia_pra_lhe_ver.html"
 
-  ## (optional) Settings for Netlify Dev
-  ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
-  #[dev]
-  #  command = "yarn start" # Command to start your dev server
-  #  port = 3000 # Port that the dev server will be listening on
-  #  publish = "dist" # Folder with the static content for _redirect file
+[[redirects]]
+  from = "/blog/capoeira/2022-11-20-e_la_lae_lae_la/"
+  to = "/sections/capoeira/e_la_lae_lae_la/e_la_lae_lae_la.html"
 
-  ## more info on configuring this file: https://docs.netlify.com/configure-builds/file-based-configuration/
+[[redirects]]
+  from = "/blog/mylife/2021-01-24-eternuer-dans-le-rer/"
+  to = "/sections/mylife/eternuer-dans-le-rer/atchoum-rer.html"
+
+[[redirects]]
+  from = "/blog/mylife/2021-01-27-malaisance-et-nid-de-frelon/"
+  to = "/sections/mylife/malaisance-et-nid-de-frelon/malaisance-frelon.html"
+
+[[redirects]]
+  from = "/blog/mylife/2021-08-06-les-tontons-veulent-me-flinguer/"
+  to = "/sections/mylife/les-tontons-veulent-me-flinguer/tontons-flingueurs.html"
+
+[[redirects]]
+  from = "/blog/mylife/2021-08-15-aventurier-contre-tout-guerrier/"
+  to = "/sections/mylife/aventurier-contre-tout-guerrier/doc-aventure.html"
+
+[[redirects]]
+  from = "/blog/mylife/2022-06-22-paris-belfort-paris-s-il-vous-plait/"
+  to = "/sections/mylife/Paris-Belfort-Paris-s-il-vous-plait/paris-belfort.html"
+
+[[redirects]]
+  from = "/blog/sciences/2021-01-25-aventure-d-une-gougoutte/"
+  to = "/sections/sciences/gougoutte/gougoutte.html"
+
+[[redirects]]
+  from = "/blog/sciences/2021-01-26-gougoutte-with-a-vengeance/"
+  to = "/sections/sciences/gougoutte-with-a-vengeance/gougoutte-2.html"
+
+[[redirects]]
+  from = "/blog/sciences/2021-08-20-c-est-vendredi-c-est-climatologie/"
+  to = "/sections/sciences/c-est-vendredi-c-est-climatologie/climatologie.html"
+
+[[redirects]]
+  from = "/blog/sciences/2022-03-12-atomes-nombres-quantiques-et-toutes-ces-conneries/"
+  to = "/sections/sciences/atomes-nombres-quantiques-et-toutes-ces-conneries/nombres-quantiques.html"
+
+[[redirects]]
+  from = "/blog/sciences/2022-05-07-atomes-nombres-quantiques-et-toutes-ces-conneries-2/"
+  to = "/sections/sciences/atomes-nombres-quantiques-et-toutes-ces-conneries-2/nombres-quantiques-2.html"
+
+[[redirects]]
+  from = "/blog/sciences/2022-05-08-atomes-nombres-quantiques-et-toutes-ces-conneries-3/"
+  to = "/sections/sciences/atomes-nombres-quantiques-et-toutes-ces-conneries-3/nombres-quantiques-3.html"
+

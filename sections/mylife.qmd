@@ -1,0 +1,12 @@
+---
+title: "My Life"
+lang: fr
+comments: false
+listing:
+  contents: mylife
+  sort: "date desc"
+  type: grid
+  categories: cloud
+---
+
+Vous trouverez ici les récits authentiques (je vous jure ! J'ai des témoins !) qui me sont arrivés. Apparemment, j'ai une tendance à attirer les trucs improbables, parfois dangereux, parfois juste bizarres.

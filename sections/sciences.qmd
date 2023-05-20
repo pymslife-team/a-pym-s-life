@@ -1,0 +1,15 @@
+---
+title: "Sciences"
+lang: fr
+comments: false
+listing:
+  contents: sciences
+  sort: "date desc"
+  type: grid
+  categories: cloud
+---
+
+Depuis qu'il est gamin PYM adore expliquer des trucs… Bon bah, autant vous dire qu'avec un site entier rien qu'à lui il va s'en donner à cœur joie.
+
+Si jamais vous avez une question absurdement complexe ou besoin d'une bête explication d'un truc du programme de collège : allez-y ! Par contre, il est ~~possible~~ **probable** que la réponse sera plus longue que prévue.
+

@@ -1,0 +1,77 @@
+project:
+  type: website
+  preview: 
+    port: 8000
+  render: 
+    - "*.qmd"
+    - "!sections/**/DRAFT*.qmd"
+  resources:
+    - "resources/*.mp3"
+    - "resources/*.jpg"
+    - "resources/*.png"
+    - "resources/*.svg"
+
+website:
+  title: "A PYM's life"
+  site-url: "https://www.pymslife.com"
+  favicon: /resources/pymslife.png
+  twitter-card:
+    creator: "@pymaldebaran"
+  open-graph:
+    locale: fr_fr
+  reader-mode: true
+  body-footer: |
+    {{< elevator "Retour au sommet !" audio="/resources/BossaBossa.mp3" end="/resources/ding.mp3" >}}
+  repo-url: https://github.com/pymaldebaran/a-pym-s-life
+  repo-branch: master
+  repo-actions:
+    - source
+    - issue
+  comments: 
+    giscus: 
+      repo: pymaldebaran/a-pym-s-life
+      repo-id: MDEwOlJlcG9zaXRvcnkzMzI2NzY3MTY=
+      category: Announcements
+      category-id: DIC_kwDOE9Q-bM4CWk8C
+      mapping: pathname
+      reactions-enabled: true
+      # loading: lazy
+      input-position: top
+      theme: light
+      language: fr
+  navbar:
+    logo: /resources/pymslife_white.svg
+    logo-alt: Un personnage avec un bandana qui lève les bras en inclinant la tête vers la gauche comme si il disait MEH! 
+    background: dark
+    foreground: light
+    collapse: true
+    collapse-below: lg
+    left:
+      - sections/mylife.qmd
+      - sections/sciences.qmd
+      - sections/fiction.qmd
+      - sections/capoeira.qmd
+    right: 
+      - authors.qmd
+      - about.qmd
+  page-footer:
+    background: dark
+    left: 🄯 Le code du site est sous licence AGPL-3.0
+    center: 🄯 Les textes sont, sauf mention contraire, sous CC BY-SA-4.0
+    right: Site réalisé avec Quarto · Hébergé chez Netlify
+
+format:
+  html:
+    theme:
+      - sketchy
+      - customisation.scss
+    toc: true
+    smooth-scroll: true
+    include-in-header: 
+      file: customisation_header.html
+
+execute: 
+  freeze: true
+
+# Shared metadata
+lang: fr

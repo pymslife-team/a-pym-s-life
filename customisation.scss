@@ -1,0 +1,170 @@
+/* ========================================================================= */
+/*--                             scss:defaults                             --*/
+/* ========================================================================= */
+
+$dialog-deco-color: rgba(139, 0, 0, 35%);
+$hastag-color: #000;
+
+/****************taille de base normale (par défaut elle est bold)************/
+$font-weight-base: 400 !default;
+
+/* ========================================================================= */
+/*--                              scss:rules                               --*/
+/* ========================================================================= */
+
+/**************Auteur, date de publi et modif sur la même ligne***************/
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#title-block-header .quarto-title-banner h1 {
+    font-size: 4rem;
+}
+
+#title-block-header .quarto-title-banner,
+#title-block-header .quarto-title-banner h1 {
+    color: white;
+    text-shadow:
+        // We put it twice to darken the effect
+        0 0 0.5em black,
+        0 0 0.5em black;
+}
+
+#title-block-header .quarto-title-banner .quarto-category {
+    background-color: rgba($color: black, $alpha: 0.4);
+}
+
+//*****************************************************************************
+//****************************Images and figures*******************************
+
+//***************************** Inline images *********************************
+img .inline {
+    display: inline;
+}
+
+//****************************** GIF images ***********************************
+img[src$='.gif'] {
+    width: 60%;
+}
+  
+@media screen and (max-width: 1680px) {
+    #main img[src$='.gif'] {
+        width: 60%;
+    }
+}
+  
+@media screen and (max-width: 1280px) {
+    #main img[src$='.gif'] {
+        width: 80%;
+    }
+}
+  
+@media screen and (max-width: 736px) {
+    #main img[src$='.gif'] {
+        width: 100%;
+    }
+}
+
+//************************* Figure and their caption **************************
+figure img {
+    width: 100%;
+}
+
+figure,
+.cell-output-display {
+    & > p,
+    & > figcaption {
+        margin-top: 0px;
+        text-align: center;
+    }
+}
+
+//*****************************************************************************
+//****************************dialog formating*********************************
+//* the line-block class is applied to all pandoc line_block paragraph.********
+
+.dialog {
+    // border-left: thick solid $dialog-deco-color;
+    font-style: italic;
+    margin: 0 0 2em; // same as any paragraph
+    padding-left: 1em;
+    padding-right: 4em;
+    position: relative;
+  
+    &::before {
+      color: $dialog-deco-color;
+      content: '»';
+      font-size: 5em;
+      font-style: italic;
+      position: absolute;
+      right: 0;
+      top: -0.6em;
+    }
+  
+    // Solution found to have spacing between protagonists speeches.
+    // Taken from: https://stackoverflow.com/a/31633969
+    br {
+      content: '';
+      display: block; // makes it have a width
+      margin-top: 0.8em;
+    }
+  }
+
+//**************************Rough nnotations***********************************
+// Most of the job is done in customisation_header.html javascript
+
+del {
+    text-decoration: none;
+}
+
+h2,
+.h2 {
+    border-bottom: 0px;
+}
+
+table {
+    border-collapse: unset;
+}
+
+.table > thead {
+    border-bottom: 0px;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th,
+.table>:not(caption)>*:not(:last-child)>* {
+    border-style: none;
+}
+
+//*****************************************************************************
+//*****************************big centered text*******************************
+
+.big-centered {
+    font-size: 3em;
+    text-align: center;
+}
+  
+//***************************************************************************
+//***********************hashtag link decoration*****************************
+
+.hashtag {
+    border-bottom: 0;
+    color: $hastag-color;
+    text-decoration: none;
+}
+
+.small {
+    font-size: smaller;
+}
+
+//***************************************************************************
+//***********************elevator button centered****************************
+
+.elevator-button {
+    margin-left: 40%;
+    margin-right: 40%;
+}
