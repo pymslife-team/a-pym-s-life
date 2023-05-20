@@ -17,8 +17,10 @@ website:
   favicon: /resources/pymslife.png
   twitter-card:
     creator: "@pymaldebaran"
+    image: pymslife_site_logo.png
   open-graph:
     locale: fr_fr
+    image: pymslife_site_logo.png
   reader-mode: true
   body-footer: |
     {{< elevator "Retour au sommet !" audio="/resources/BossaBossa.mp3" end="/resources/ding.mp3" >}}
