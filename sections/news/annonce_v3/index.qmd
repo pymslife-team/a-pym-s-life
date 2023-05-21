@@ -1,0 +1,72 @@
+---
+title: Lancement de la V3.0 de PYM's Life
+subtitle: Dans Bridget Jones on appelle ça "L'Âge de Raison", nan ?
+description: Il est tout beau, il est tout chaud, il sort du four alors vous jetez pas dessus, bande de goinfres !
+date: 2023-05-21
+date-modified: 2023-05-21
+license: CC BY-SA
+author: 
+  - PYM
+categories: 
+  - news
+title-block-banner: fun_dans_la_piscine.jpg
+image: /resources/pymslife_site_logo.svg
+image-alt: Le nouveau logo du site avec un perso qui semble s'en foutre de ce qui lui arrive. MEH
+---
+
+Et voilà, vous vous trouvez maintenant sur la V3.0 de PYM's Life. C'est un assez gros changement puisque contrairement à la migration d'il y a deux ans, je n'ai pas conservé le design du site.
+
+## Pourquoi changer ?
+
+Principalement pour faciliter l'écriture pour moi et, comme nous allons le voir, les nouveaux contributeurs. En effet, tout ce blog est écrit en [Markdown](https://daringfireball.net/projects/markdown/) que j'utilise aussi pour le boulot et plein d'autres projets. Généralement, j'utilise [Pandoc](https://pandoc.org/) pour convertir le Markdown dans les formats finaux : PDF, DOCX, HTML… mais Pandoc n'est pas top pour générer des sites internet entiers j'ai donc du au fil des années bidouiller un peu pour conserver mon outil favori.
+
+La V1 du site utilisait le générateur de site statique [Jeckyll](https://jekyllrb.com/), mais son support du Markdown est très limité.
+
+Pour la V2, j'étais passé au générateur Pelican qui m'a bien simplifié la vie, car il utilisait Pandoc pour générer les pages, mais le reste était très compliqué à gérer : template du site, gestion des pages de listing en [Jinja](https://jinja.palletsprojects.com)… j'avais gagné le bon support des formules de math et du SCSS, mais je devais encore gérer trop de choses à la main.
+
+![Pelican tentant gérer un contenu trop compliqué pour lui](/sections/news/annonce_v3/pelican_too_big_for_you.gif)
+
+Puis mon pote Greg m'a signalé [Quarto](https://quarto.org/), un générateur de site statique orienté "pour les chercheurs" (publications scientifiques, site de labo, code de notebook [Jupyter](https://jupyter.org/)…) qui lui s'appuyait nativement sur Pandoc avec une gestion des thèmes et des fonctionnalités avancées absolument limpide.
+
+Deux semaines pour tout faire bien et voilà !
+
+## Quoi de neuf ?
+
+![What's up doc ?](/sections/news/annonce_v3/barbra-streisand-whats-up-doc.gif)
+
+- le générateur du site est passé de [Pelican](https://getpelican.com/blog/) à [Quarto](https://quarto.org/)
+- le site est maintenant clairement divisé en 4 sections : [**My Life**](https://pymslife.com/sections/mylife.html), [**Sciences**](https://pymslife.com/sections/sciences.html), [**Capoeira**](https://pymslife.com/sections/capoeira.html) et une petite nouvelle qui va vite se remplir [**Fiction**](https://pymslife.com/sections/fiction.html)
+- il y aura des auteurs et coauteurs invités (le premier post est en cours de rédaction)
+- un nouveau thème beaucoup moins passepartout et qui colle plus à mon style : écriture qui rappelle un tableau blanc, rature au stylo rouge et gribouillis hachuré ! J'espère que vous aimerez ce changement de style.
+- j'ai ajouté un support des tags par nuage de tag
+- vous pouvez maintenant commenter les posts ! Oui un site statique avec des commentaires c'est possible grâce à [Github Discussions](https://github.com/features/discussions) et à [Quarto](https://quarto.org/). Tout ça grâce à [Giscus](https://giscus.app/fr).
+- d'autres interactions feront bientôt leur apparition
+- le site est maintenant parfaitement "fluid" (il s'adapte parfaitement à la taille de l'écran)
+- l'écriture de traduction de chanson est bien plus facile à faire et bien mieux rendue qu'avant (c'est super utile pour mes élèves de capoeira). Regardez par exemple [l'explication sur le chant "Ê La Lae Lae La"](https://pymslife.com/sections/capoeira/e_la_lae_lae_la/).
+- je peux ajouter des graphes et des cartes interactives à mes posts… j'ai déjà commencé à en mettre (voir plus loin)
+- j'ai caché un easter egg débile dans le site (amusez-vous à le trouver)
+
+## Et au niveau du contenu ?!
+
+C'est vrai, que la technique, pour vous lecteur, ce n’est pas hyper important. Ce qui vous intéresse c'est le contenu !
+
+Alors pour fêter l'arrivée du site vous allez faire la rencontre de Marie-Odile et de mon Franprix dans une nouvelle aventure : [Atchoum à paillettes](/sections/mylife/atchoum-a-paillettes/index.qmd)
+
+Mais les anciens contenus aussi ont eu droit à un petit boost. De la correction orthographique et grammaticale, déjà. Le pauvre dyslexique que je suis aurait, il est vrai, pu faire un effort avant… mais bon. Mais j'ai aussi ajouté un peu de bonus en particulier sur [Malaisance et nid de Frelons](/sections/mylife/malaisance-et-nid-de-frelon/index.qmd) qui , maintenant, a plein de photos et de vidéo des protagonistes et des lieux.
+
+J'ai aussi ajouté des cartes interactives pour les cours de capoeira (lieux au Brésil) et pour - une fois encore - [Malaisance et nid de Frelons](/sections/mylife/malaisance-et-nid-de-frelon/index.qmd) ☺
+
+On a aussi un tout nouveau logo pour les partages sur les réseaux sociaux et pour l'en-tête du site :
+
+![Dessiné avec mes petits doigts](/resources/pymslife_site_logo.svg)
+
+N'hésitez surtout pas à me faire des retours sur le nouveau site dans les commentaires, puisque maintenant il y en a !
+
+[#enjoy](https://youtu.be/3GwjfUFyY6M){.hashtag}
+
+#### Crédits photo {.appendix}
+
+- Photo de [la "one man pool party"]() de [Jakob Owens](https://unsplash.com/@jakobowens1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/fr/photos/qoFQxxuk3QY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sous [licence Unsplash](https://unsplash.com/fr/licence)
+- Le logo du site est… bah de moi et sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) comme le reste du site
+- Tous les gifs issus de [tenor.com](https://tenor.com) selon leur [conditions d'utilisation](https://tenor.com/fr/legal-terms)
+  

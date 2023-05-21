@@ -23,6 +23,6 @@ Bref, le premier post est sur [une explication qui va beaucoup trop loin](/secti
 
 [#onVerraBien](https://youtu.be/YltjliK0ZeA){.hashtag} [#apocryphe](https://www.dicocitations.com/citations/citation-48649.php){.hashtag}
 
-#### Crédits photo
+#### Crédits photo {.appendix}
 
 - Image du [timbre First Man on the Moon](https://commons.wikimedia.org/w/index.php?curid=9977096) par Bureau of Engraving and Printing — U.S. Post Office / Gwillhickers: Hi-res scan of US postage stamp, 1969 issue, placé dans le [domaine public](https://creativecommons.org/share-your-work/public-domain/)
