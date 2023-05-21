@@ -91,7 +91,7 @@ Ah oui, au final, c'était "Minimum 15 points de suture" pour la louloute. Dur.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1306713199&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pymaldebaran" title="pymaldebaran" target="_blank" style="color: #cccccc; text-decoration: none;">pymaldebaran</a> · <a href="https://soundcloud.com/pymaldebaran/atchoum-a-paillettes-version-pierre-bellemerd" title="Atchoum à Paillettes - Version Pierre Bellemard" target="_blank" style="color: #cccccc; text-decoration: none;">Atchoum à Paillettes - Version Pierre Bellemard</a></div>
 
-#### Crédits photo
+#### Crédits photo {.appendix}
 
 - Photo de miniature de la [zombie girl](https://www.flickr.com/photos/metrix_feet/10519006043/in/photostream/) par [Ryan](https://www.flickr.com/photos/metrix_feet/) sous licence [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 - Photo de la fille tenant son phone par [freestocks](https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/fr/photos/m7zKB91brGo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

@@ -1,0 +1,28 @@
+---
+title: Lancement du blog "a PYM's Life"
+subtitle: Un grand pas pour l'humanit… ouais nan peut-être pas…
+description: Message de service totalement apocryphe
+date: 2021-01-05
+date-modified: 2023-05-21
+license: CC BY-SA
+author: 
+  - PYM
+categories: 
+  - news
+  - apocryphe
+title-block-banner: First_Man_on_Moon_1969_Issue-10c.jpg
+image: First_Man_on_Moon_1969_Issue-10c.jpg
+image-alt: Un timbre commémorant l'arrivée du premier homme sur la Lune
+---
+
+Voilà, le site est officiellement lancé après des années à me faire tanner par plein d'amis à moi - ils se reconnaitront - qui voulaient que j'écrive toutes les bizarreries qui m'arrivent tout le temps.
+
+Il n’y aura peut-être pas des masses de mise à jour, je n’ai pas trop l'habitude d'écrire autre chose que du code des dernières années… bon quelques scénarios de JDR et des tonnes de choses sur des tchats…
+
+Bref, le premier post est sur [une explication qui va beaucoup trop loin](/sections/sciences/gougoutte/index.qmd), suite à une innocente question sur le net…
+
+[#onVerraBien](https://youtu.be/YltjliK0ZeA){.hashtag} [#apocryphe](https://www.dicocitations.com/citations/citation-48649.php){.hashtag}
+
+#### Crédits photo {.appendix}
+
+- Image du [timbre First Man on the Moon](https://commons.wikimedia.org/w/index.php?curid=9977096) par Bureau of Engraving and Printing — U.S. Post Office / Gwillhickers: Hi-res scan of US postage stamp, 1969 issue, placé dans le [domaine public](https://creativecommons.org/share-your-work/public-domain/)

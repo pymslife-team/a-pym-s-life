@@ -8,6 +8,7 @@ listing:
     - sections/sciences
     - sections/mylife
     - sections/fiction
+    - sections/news
   sort: "date desc"
   type: grid
   # grid-columns: 2

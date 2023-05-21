@@ -1,0 +1,34 @@
+---
+title: Lancement de la V2.0 de PYM's Life
+subtitle: Have you tried turning it OFF and ON again?
+description: Message de service totalement apocryphe 2
+date: 2022-04-02
+date-modified: 2023-05-21
+license: CC BY-SA
+author: 
+  - PYM
+categories: 
+  - news
+  - apocryphe
+title-block-banner: Pelican.jpg
+image: Pelican.jpg
+image-alt: Juste un Pélican qui vole…
+---
+
+Aujourd'hui, je mets en ligne la… 
+
+::: {.big-centered}
+🎉 version 2.0 du site 🎉
+:::
+
+Rien de foufou, on va garder les mêmes et on recommence : j'ai juste fait un portage du contenu du site (toujours en [Markdown](https://daringfireball.net/projects/markdown/)) de [Jeckyll](https://jekyllrb.com/) que je ne trouvais vraiment pas adapté à l'usage que j'en fais (et qui est en [Ruby](https://www.ruby-lang.org/en/), langage que je ne maitrise quasiment pas…) vers [Pelican](https://getpelican.com/) (qui lui est en [Python](https://www.python.org/) et ça j'ai une très grosse expérience dessus).
+
+![C'est lui qui gère tout maintenanrt… déso…](party_pelican.gif)
+
+Ça change quoi ? Principalement que je peux utiliser toute la puissance de du [Markdown de Pandoc](https://pandoc.org/MANUAL.html?pandocs-markdown#pandocs-markdown) (que j'utilise pour faire le rendu des pages).
+
+L'autre gros changement c'est l'hébergeur : je passe de [Free](https://free.fr) (avec des uploads manuels en FTP) à [Netlify](https://www.netlify.com/) avec des déploiements automatisés à chaque modif du contenu. La claaaaasse… mais surtout moins de prise de tête pour moi.
+
+#### Crédits photo {.appendix}
+
+- Image du [Pélican](https://www.flickr.com/photos/37777824@N00/258868061/) de couverture par [Rui Ornelas de Lisboa, Portugal - sur Flikr](https://www.flickr.com/photos/fotos_dos_ornelas/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
