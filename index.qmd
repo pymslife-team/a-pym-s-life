@@ -1,7 +1,10 @@
 ---
 title: "A PYM's life"
+description: Ma vie est un film sans directeur mais avec beaucoup trop d'effets spéciaux…
 lang: fr
 comments: false
+image: /resources/pymslife_site_logo.png
+image-alt: Un bonhomme qui lève les bras aux ciel comme si il se foutait un peu de ce qui peut lui arriver
 listing:
   contents:
     - sections/capoeira

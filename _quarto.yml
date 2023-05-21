@@ -13,17 +13,14 @@ project:
 
 website:
   title: "A PYM's life"
+  description: Ma vie est un film sans directeur mais avec beaucoup trop d'effets spéciaux…
   site-url: "https://www.pymslife.com"
   favicon: /resources/pymslife.png
   twitter-card:
     creator: "@pymaldebaran"
-    image: /resources/pymslife_site_logo.png
-    description: Ma vie est un film sans directeur mais avec beaucoup trop d'effets spéciaux…
     card-style: summary_large_image
   open-graph:
     locale: fr_fr
-    image: /resources/pymslife_site_logo.png
-    description: Ma vie est un film sans directeur mais avec beaucoup trop d'effets spéciaux…
   reader-mode: true
   body-footer: |
     {{< elevator "Retour au sommet !" audio="/resources/BossaBossa.mp3" end="/resources/ding.mp3" >}}
