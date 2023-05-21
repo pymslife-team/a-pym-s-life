@@ -3,9 +3,11 @@ title: PYM's life website README
 author: Pierre-Yves Martin
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c947407-d8d9-4840-b216-78a24967fcbc/deploy-status)](https://app.netlify.com/sites/a-pym-s-life/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/21c7bfcd-d05e-4c21-93f7-3ae83234e3aa/deploy-status)](https://app.netlify.com/sites/pymslife/deploys)
 
 Ce projet est mon site web personnel. Initialement, il s'appuyais sur [Jeckyl](https://jekyllrb.com) puis [Pelican](https://getpelican.com) et maintenant [quarto](https://www.quarto.org).
+
+<https://pymslife.com>
 
 ## La technique
 
