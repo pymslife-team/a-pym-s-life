@@ -141,7 +141,7 @@ Voilà
 
 Voilà
 
-:::{.align-center}
+:::{.big-centered}
 **QUELLE EST LA PHRASE MAGIQUE QUI TE SORT D’UNE SITUATION COMME ÇA ?**
 :::
 
