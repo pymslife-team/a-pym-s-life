@@ -16,6 +16,7 @@ categories:
 title-block-banner: titanic_culotte.jpg
 image: titanic_culotte.jpg
 image-alt: Une culotte, une mandarine et le Titanic
+draft: true
 ---
 
 :::{.callout-note}
