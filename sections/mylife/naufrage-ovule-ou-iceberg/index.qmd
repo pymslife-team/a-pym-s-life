@@ -14,9 +14,8 @@ categories:
   - Doc Gynéco
   - IST
 title-block-banner: titanic_culotte.jpg
-image: titanic_culotte.jpg
-image-alt: Une culotte, une mandarine et le Titanic
-draft: true
+image: istock_sos_culotte.jpg
+image-alt: Panneau SOS sur une culotte noire
 ---
 
 :::{.callout-note}
@@ -27,7 +26,7 @@ Un peu de contexte : il s'agit du premier récit "invité" de ce blog. C'est une
 
 Comme toutes les bonnes histoires, celle-ci commence par une [IST](https://fr.wikipedia.org/wiki/Infection_sexuellement_transmissible). C'est toujours plaisant comme expérience, non ?
 
-<GIF ICI - non>
+![Non.](nope-no.gif)
 
 Là par exemple, cette sympathique petite IST avait un super pouvoir. Celui de me donner des mycoses à répétition. Joie. Bonheur. Malaisance. 👈 Ce n’est pas au choix, ici c'est "all inclusive". Mais au bout d'un moment les précautions médicales, tu les connais. On peut même dire que j'étais devenue experte 😤 et me mettre un ovule était devenu un geste de routine.
 
@@ -41,7 +40,7 @@ Là par exemple, cette sympathique petite IST avait un super pouvoir. Celui de m
 :::{.callout-tip}
 ## aparté informatif
 
-Assez rapidement, tu comprends que les mycoses, OK, c'est bénin, mais faut pas négliger le machin. D'autant que c'est désagréable as fuck... enfin ouais d'ailleurs particulièrement pendant le "fuck", justement. Mais pas que. Donc plus vite c'est soigné, plus vite on retrouve son petit confort et tout le reste redevient plus agréable. Généralement, ça se traite avec un ovule vaginal antifongique... ce qui est bien avec ce nom, c'est que tu vois tout de suite comment ça s'utilise. Faut pas vous faire un dessin !?
+Certaines IST (Infections Sexuellement Transmissibles) ont la joyeuse idée de déclencher ou faciliter les mycoses vaginales et/ou vulvaires... ouais pas de bol. Don cil faut traiter l'IST, mais aussi sa copine lourdingue : la mycose. Assez rapidement, tu comprends que les mycoses, OK, c'est bénin, mais faut pas négliger le machin. D'autant que c'est désagréable as fuck... enfin ouais d'ailleurs particulièrement pendant le "fuck", justement. Mais pas que. Donc plus vite c'est soigné, plus vite on retrouve son petit confort et tout le reste redevient plus agréable. Généralement, ça se traite avec un ovule vaginal antifongique... ce qui est bien avec ce nom, c'est que tu vois tout de suite comment ça s'utilise. Faut pas vous faire un dessin !?
 
 ![Apparemment, si, il faut...](schema-ovule.jpg){width=50%}
 
@@ -56,7 +55,7 @@ On ne se méfie jamais assez des moments de calme. On aurait été sur le Titani
 
 ## Quand soudain...{#quand-soudain}
 
-Je sombrais donc mollement dans les bras de Mophée et de mon mec en même temps[^plan3], quand soudain, une illumination : j'ai oublié de mettre ce putain d'ovule pour l'IST !
+Je sombrais donc mollement dans les bras de Morphée et de mon mec en même temps[^plan3], quand soudain, une illumination : j'ai oublié de mettre ce putain d'ovule pour l'IST !
 
 [^plan3]: Non, ce n'est pas un plan à trois, bande d'incultes ! Morphée, le dieu antique du sommeil et des rêves. Et aussi le héros de l'excellent [Sandman](https://www.netflix.com/fr/title/81150303), c'est bon, mangez-en !
 
@@ -268,5 +267,6 @@ Moi, ma chère J., je te décerne, le plus officiellement du monde, la **🏆Gyn
 
 #### Crédits photo {.appendix}
 
-- Photo de miniature faites avec mes petits doigts à partir de trucs trouvé sur le net...
+- Photo d'en-tête faites avec mes petits doigts à partir de trucs trouvé sur le net...
+- Photo de miniature issue de iStock... impossible de trouver mieux pour le moment. Selon leur [licence d'utilisation](https://www.istockphoto.com/fr/legal/license-agreement)
 - Tous les gifs issus de [tenor.com](https://tenor.com) selon leurs [conditions d'utilisation](https://tenor.com/fr/legal-terms)
