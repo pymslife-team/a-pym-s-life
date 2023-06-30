@@ -19,7 +19,7 @@ image-alt: Panneau SOS sur une culotte noire
 ---
 
 :::{.callout-note}
-Un peu de contexte : il s'agit du premier récit "invité" de ce blog. C'est une histoire vécue par une amie à moi qui m'est très chère, mais que je ne vois pas assez souvent. Alors quand on se voit, forcément on se raconte mille trucs... il faut dire qu'il arrive le même genre d'aventure à Jeanne qu'à moi. Ici, l'histoire est d'elle et l'écriture de moi [#travailDequipe](https://youtu.be/nCZUiyRJmzg){.hashtag}
+Un peu de contexte : il s'agit du premier récit "invité" de ce blog. C'est une histoire vécue par une amie à moi qui m'est très chère, mais que je ne vois pas assez souvent. Alors quand on se voit, forcément on se raconte mille trucs... il faut dire qu'il arrive le même genre d'aventure à J. qu'à moi. Ici, l'histoire est d'elle et l'écriture de moi [#travailDequipe](https://youtu.be/nCZUiyRJmzg){.hashtag}
 :::
 
 ## Il était une fois...
