@@ -1,6 +1,6 @@
 ---
 title: toto
-subtitle: 
+subtitle: oué c bon tu l'as ton sous-titre
 description: 
 date: 
 date-modified: 
