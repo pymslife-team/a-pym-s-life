@@ -1,6 +1,6 @@
 ---
 title: Adeus povo bom
-subtitle: ???TITRE NE FR
+subtitle: Adieu braves gens
 description: ???
 date: 2023-07-08
 date-modified: ???
@@ -22,33 +22,39 @@ INTRO
 
 ::: {layout-ncol=2}
 
-### TITRE BR 🇧🇷
+### Adeus povo bom 🇧🇷
 
-| COUPLET BR
-|
-| **CHOEUR BR**
-|
-| ETC
+| Adeus povo bom, adeus
+| Adeus eu ja vou membora
+| Pelas ondas do mar, eu vim
+| Pelas ondas do mar... Eu vou membora
+| **Adeus povo bom, adeus**
+| **Adeus eu ja vou membora**
+| **Pelas ondas do mar, eu vim**
+| **Pelas ondas do mar... Eu vou membora**
 
 ### TITRE FR 🇫🇷
 
-| COUPLET BR
-|
-| **CHOEUR BR**
-|
-| ETC
+| Adieu, braves gens, adieu
+| Adieu, je m'en vais déjà
+| Par les vagues de la mer, je suis venu
+| Par les vagues de la mer... Je m'en vais
+| **Adieu, braves gens, adieu
+| Adieu, je m'en vais déjà
+| Par les vagues de la mer, je suis venu
+| Par les vagues de la mer... Je m'en vais**
 
 :::
 
 ## Vidéo de référence
 
-{{< video https://youtu.be/zRgXUKWqcuI >}}
-
-À REMPLACER PAR LA OU LES BONNES VIDÉOS
+{{< video https://www.youtube.com/watch?v=JTa2l3Cz2QQ >}}
 
 ## Prononciation et astuces de chant
 
-À COMPLÉTER SI TU PEUX
+Le mot "bom" se prononce avec un "o" nasal, c'est-à-dire qu'il est prononcé à la fois avec la bouche et le nez ; le "m" final ne s'entend pas !
+
+Par ailleurs, le mot "membora" est une contraction ; la forme exacte, "me embora" (voir vocabulaire), se voit ici transformée pour coller au rythme de la chanson.
 
 ## Vocabulaire
 
@@ -56,25 +62,23 @@ INTRO
 
 À COMPLÉTER SI TU PEUX:
 
-| Portugais     | Français       |
-| ------------- | -------------- |
-| **mãe**       | mère           |
-| **pai**       | papa           |
-| **lavadeira** | une lavandière |
-| **lembrança** | un souvenir    |
-| **chegada**   | une arrivée    |
-| **colheta**   | une récolte    |
+| Portugais     | Français                |
+| ------------- | --------------          |
+| **Adeus**     | Adieu / au revoir       |
+| **o povo**    | les gens, les personnes |
+| **as ondas ** | les vagues              |
+| **o mar**     | la mer                  |
 
 ### Verbes
 
-| Portugais            | Français         | Infinitif                        |
-| -------------------- | ---------------- | -------------------------------- |
-| **ele nos aprendeu** | il nous a appris | [aprender / apprendre][aprender] |
-| **eu trouxe**        | j'ai apporté     | [trazer / apporter][trazer]      |
+| Portugais            | Français         | Infinitif                                 |
+| -------------------- | ---------------- | --------------------------------          |
+| **eu vim**           | je suis venu     | [vir / venir][vir]                        |
+| **eu vou me embora** | je m'en vais     | [ir-se embora / s'en aller][ir-se embora] |
 
-[aprender]: https://la-conjugaison.nouvelobs.com/portugais/verbe/aprender.php
-[trazer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/trazer.php
+[vir]: https://la-conjugaison.nouvelobs.com/portugais/verbe/vir.php
+[ir-se embora]: https://www.online-translator.com/conjugation%20and%20declination/portuguese/ir-se%20embora
 
 ## Culture
 
-À COMPLÉTER AVEC DES THÈMES DU CHANT SUR LESQUELS TU AIMERAIS DES DÉTAILS
+Les esclaves enfuis
