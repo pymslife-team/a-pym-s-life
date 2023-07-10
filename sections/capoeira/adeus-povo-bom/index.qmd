@@ -1,9 +1,9 @@
 ---
 title: Adeus povo bom
 subtitle: Adieu braves gens
-description: ???
+description: Une chanson de fin de roda et sa traduction française
 date: 2023-07-08
-date-modified: ???
+date-modified: 2023-07-10
 license: CC BY-SA
 author: 
   - Z.
@@ -18,6 +18,8 @@ image-alt: ???
 
 INTRO
 
+Une despedida (un chant de fin de roda) courte et très jolie, sur le thème du voyage et du retour au pays natal (ou au pays d'origine), en Afrique, d'où la plupart des esclaves en Amérique étaient originaires.
+
 ## Le chant
 
 ::: {layout-ncol=2}
@@ -28,7 +30,7 @@ INTRO
 | Adeus eu ja vou membora
 | Pelas ondas do mar, eu vim
 | Pelas ondas do mar... Eu vou membora
-
+|
 | **Adeus povo bom, adeus**
 | **Adeus eu ja vou membora**
 | **Pelas ondas do mar, eu vim**
@@ -40,11 +42,11 @@ INTRO
 | Adieu, je m'en vais déjà
 | Par les vagues de la mer, je suis venu
 | Par les vagues de la mer... Je m'en vais
-
-| **Adieu, braves gens, adieu
-| Adieu, je m'en vais déjà
-| Par les vagues de la mer, je suis venu
-| Par les vagues de la mer... Je m'en vais**
+|
+| **Adieu, braves gens, adieu**
+| **Adieu, je m'en vais déjà**
+| **Par les vagues de la mer, je suis venu**
+| **Par les vagues de la mer... Je m'en vais**
 
 :::
 
@@ -61,8 +63,6 @@ Par ailleurs, le mot "membora" est une contraction ; la forme exacte, "me embora
 ## Vocabulaire
 
 ### Noms communs
-
-À COMPLÉTER SI TU PEUX:
 
 | Portugais     | Français                |
 | ------------- | --------------          |
@@ -82,5 +82,3 @@ Par ailleurs, le mot "membora" est une contraction ; la forme exacte, "me embora
 [ir-se embora]: https://www.online-translator.com/conjugation%20and%20declination/portuguese/ir-se%20embora
 
 ## Culture
-
-Les esclaves enfuis ça peut être important comme thème culturel
