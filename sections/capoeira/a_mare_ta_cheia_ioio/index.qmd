@@ -1,5 +1,5 @@
 ---
-title: A mare ta cheia ioio
+title: A mare ta cheia ioiô
 subtitle: ???TITRE EN FR
 description: ???
 date: 2023-07-10
