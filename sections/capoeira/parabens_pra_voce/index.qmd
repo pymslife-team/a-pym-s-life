@@ -1,0 +1,80 @@
+---
+title: Paraben pra você
+subtitle: ???TITRE EN FR
+description: ???
+date: 2023-07-10
+date-modified: ???
+license: CC BY-SA
+author: 
+  - Z.
+  - PYM
+categories: 
+  - capoeira
+  - chant
+title-block-banner: ???
+image: ???
+image-alt: ???
+---
+
+INTRO
+
+## Le chant
+
+::: {layout-ncol=2}
+
+### TITRE BR 🇧🇷
+
+| COUPLET BR
+|
+| **CHOEUR BR**
+|
+| ETC
+
+### TITRE FR 🇫🇷
+
+| COUPLET BR
+|
+| **CHOEUR BR**
+|
+| ETC
+
+:::
+
+## Vidéo de référence
+
+{{< video https://youtu.be/zRgXUKWqcuI >}}
+
+À REMPLACER PAR LA OU LES BONNES VIDÉOS
+
+## Prononciation et astuces de chant
+
+À COMPLÉTER SI TU PEUX
+
+## Vocabulaire
+
+### Noms communs
+
+À COMPLÉTER SI TU PEUX:
+
+| Portugais     | Français       |
+| ------------- | -------------- |
+| **mãe**       | mère           |
+| **pai**       | papa           |
+| **lavadeira** | une lavandière |
+| **lembrança** | un souvenir    |
+| **chegada**   | une arrivée    |
+| **colheta**   | une récolte    |
+
+### Verbes
+
+| Portugais            | Français         | Infinitif                        |
+| -------------------- | ---------------- | -------------------------------- |
+| **ele nos aprendeu** | il nous a appris | [aprender / apprendre][aprender] |
+| **eu trouxe**        | j'ai apporté     | [trazer / apporter][trazer]      |
+
+[aprender]: https://la-conjugaison.nouvelobs.com/portugais/verbe/aprender.php
+[trazer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/trazer.php
+
+## Culture
+
+À COMPLÉTER AVEC DES THÈMES DU CHANT SUR LESQUELS TU AIMERAIS DES DÉTAILS
