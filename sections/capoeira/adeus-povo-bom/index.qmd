@@ -16,8 +16,6 @@ image: ???
 image-alt: ???
 ---
 
-INTRO
-
 Une despedida (un chant de fin de roda) courte et très jolie, sur le thème du voyage et du retour au pays natal (ou au pays d'origine), en Afrique, d'où la plupart des esclaves en Amérique étaient originaires.
 
 ## Le chant
