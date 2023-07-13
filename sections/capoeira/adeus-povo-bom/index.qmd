@@ -1,7 +1,7 @@
 ---
 title: Adeus povo bom
 subtitle: Adieu braves gens
-description: Une chanson de fin de roda et sa traduction française
+description: Une chanson de fin de roda courte et très jolie
 date: 2023-07-08
 date-modified: 2023-07-10
 license: CC BY-SA
