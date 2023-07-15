@@ -1,0 +1,90 @@
+---
+title: Adeus povo bom
+subtitle: Adieu braves gens
+description: Une chanson de fin de roda courte et très jolie
+date: 2023-07-08
+date-modified: 2023-07-10
+license: CC BY-SA
+author: 
+  - Z.
+  - PYM
+categories: 
+  - capoeira
+  - chant
+title-block-banner: ???
+image: ???
+image-alt: ???
+---
+
+Une despedida (un chant de fin de roda) courte et très jolie, sur le thème du voyage et du retour au pays natal (ou au pays d'origine), en Afrique, d'où la plupart des esclaves en Amérique étaient originaires.
+
+## Le chant
+
+::: {layout-ncol=2}
+
+### Adeus povo bom 🇧🇷
+
+| Adeus povo bom, adeus
+| Adeus eu ja vou membora
+| Pelas ondas do mar, eu vim
+| Pelas ondas do mar... Eu vou membora
+|
+| **Adeus povo bom, adeus**
+| **Adeus eu ja vou membora**
+| **Pelas ondas do mar, eu vim**
+| **Pelas ondas do mar... Eu vou membora**
+
+### Adieu braves gens 🇫🇷
+
+| Adieu, braves gens, adieu
+| Adieu, je m'en vais déjà
+| Par les vagues de la mer, je suis venu
+| Par les vagues de la mer... Je m'en vais
+|
+| **Adieu, braves gens, adieu**
+| **Adieu, je m'en vais déjà**
+| **Par les vagues de la mer, je suis venu**
+| **Par les vagues de la mer... Je m'en vais**
+
+:::
+
+## Vidéo de référence
+
+{{< video https://www.youtube.com/watch?v=JTa2l3Cz2QQ >}}
+
+## Prononciation et astuces de chant
+
+Le mot "bom" se prononce avec un "o" nasal, c'est-à-dire qu'il est prononcé à la fois avec la bouche et le nez ; le "m" final ne s'entend pas !
+
+Par ailleurs, le mot "membora" est une contraction ; la forme exacte, "me embora" (voir vocabulaire), se voit ici transformée pour coller au rythme de la chanson.
+
+## Vocabulaire
+
+### Noms communs
+
+| Portugais     | Français                |
+| ------------- | --------------          |
+| **Adeus**     | Adieu / au revoir       |
+| **o povo**    | les gens, les personnes |
+| **as ondas ** | les vagues              |
+| **o mar**     | la mer                  |
+
+### Verbes
+
+| Portugais            | Français         | Infinitif                                 |
+| -------------------- | ---------------- | --------------------------------          |
+| **eu vim**           | je suis venu     | [vir / venir][vir]                        |
+| **eu vou me embora** | je m'en vais     | [ir-se embora / s'en aller][ir-se embora] |
+
+[vir]: https://la-conjugaison.nouvelobs.com/portugais/verbe/vir.php
+[ir-se embora]: https://www.online-translator.com/conjugation%20and%20declination/portuguese/ir-se%20embora
+
+## Culture
+
+### Despedida
+
+En capoeira, les Despedida, littéralement "Adieu" en portugais, sont des chansons que l'on chante parfois à la fin de la roda et sur lesquels ont achève les derniers jeux.
+
+### Back-to-Africa
+
+Le "back-to-africa movement" ("back-to-Africa"" : "retour en Afrique") consiste à encourager les Noirs américains d'origine africaine à retourner dans la patrie africaine de leurs ancêtres. Ce mouvement était divisé entre militants pour l'abolition de l'esclavage et, à l'inverse, des propriétaires d'esclaves désireux de voir partir les plus épris de liberté, craignant l'émergence d'une communauté noire libre. Vers 1877, le mouvement connaît un regain dans une Amérique de plus en plus raciste, où des groupes violents comme le Ku Klux Klan multiplient les agressions.
