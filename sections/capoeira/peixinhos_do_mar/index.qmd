@@ -1,9 +1,9 @@
 ---
 title: Peixinhos do mar
-subtitle: ???TITRE EN FR
-description: ???
+subtitle: Les petits poissons de la mer
+description: Une berceuse brésilienne plutôt connue, parfois chantée en capoeira 
 date: 2023-07-10
-date-modified: ???
+date-modified: 2023-07-16
 license: CC BY-SA
 author: 
   - Z.
@@ -22,33 +22,133 @@ INTRO
 
 ::: {layout-ncol=2}
 
-### TITRE BR 🇧🇷
+### Peixinhos do mar
 
-| COUPLET BR
+| Quem te ensinho a nadar
+| Quem te ensinho a nadar
+| Foi foi marinheiro
+| Foi os peixinhos do mar
+| Foi foi marinheiro
+| Foi os peixinhos do mar
 |
-| **CHOEUR BR**
+| **Quem te ensinho a nadar**
+| **Quem te ensinho a nadar**
+| **Foi foi marinheiro**
+| **Foi os peixinhos do mar**
+| **Foi foi marinheiro**
+| **Foi os peixinhos do mar**
 |
-| ETC
+| Quem te ensinho a voar
+| Quem te ensinho a voar
+| Foi foi marinheiro
+| Foi a gaivota do mar
+| Foi foi marinheiro
+| Foi a gaivota do mar
+|
+| **Quem te ensinho a voar**
+| **Quem te ensinho a voar**
+| **Foi foi marinheiro**
+| **Foi a gaivota do mar**
+| **Foi foi marinheiro**
+| **Foi a gaivota do mar**
+| 
+| Quem te ensinho a beijar
+| Quem te ensinho a beijar
+| Foi foi marinheiro
+| Foi a sereia do mar
+| Foi foi marinheiro
+| Foi a sereia do mar
+|
+| **Quem te ensinho a beijar**
+| **Quem te ensinho a beijar**
+| **Foi foi marinheiro**
+| **Foi a sereia do mar**
+| **Foi foi marinheiro**
+| **Foi a sereia do mar**
+| 
+| Quem te ensinho a gingar
+| Quem te ensinho a gingar
+| Foi foi marinheiro
+| Foi o pirata do mar
+| Foi foi marinheiro
+| Foi o pirata do mar
+|
+| **Quem te ensinho a gingar**
+| **Quem te ensinho a ginagr**
+| **Foi foi marinheiro**
+| **Foi o pirata do mar**
+| **Foi foi marinheiro**
+| **Foi o pirata do mar**
 
-### TITRE FR 🇫🇷
+### Les petits poissons de la mer
 
-| COUPLET BR
+| Qui t'a appris à nager
+| Qui t'a appris à nager
+| C'était le marin
+| C'était les petits poissons de la mer
+| C'était le marin
+| C'était les petits poissons de la mer
 |
-| **CHOEUR BR**
+| **Qui t'a appris à nager**
+| **Qui t'a appris à nager**
+| **C'était le marin**
+| **C'était les petits poissons de la mer**
+| **C'était le marin**
+| **C'était les petits poissons de la mer**
 |
-| ETC
+| Qui t'a appris à voler
+| Qui t'a appris à voler
+| C'était le marin
+| C'était la mouette
+| C'était le marin
+| C'était la mouette
+|
+| **Qui t'a appris à voler**
+| **Qui t'a appris à voler**
+| **C'était le marin**
+| **C'était la mouette**
+| **C'était le marin**
+| **C'était la mouette**
+| 
+| Qui t'a appris à embrasser
+| Qui t'a appris à embrasser
+| C'était le marin
+| C'était la sirène de la mer
+| C'était le marin
+| C'était la sirène de la mer
+|
+| **Qui t'a appris à embrasser**
+| **Qui t'a appris à embrasser**
+| **C'était le marin**
+| **C'était la sirène de la mer**
+| **C'était le marin**
+| **C'était la sirène de la mer**
+| 
+| Qui t'a appris à ginger
+| Qui t'a appris à ginger
+| C'était le marin
+| C'était le pirate de la mer
+| C'était le marin 
+| C'était le pirate de la mer
+|
+| **Qui t'a appris à ginger**
+| **Qui t'a appris à ginger**
+| **C'était le marin**
+| **C'était le pirate de la mer**
+| **C'était le marin**
+| **C'était le pirate de la mer**
 
 :::
 
 ## Vidéo de référence
 
-{{< video https://youtu.be/zRgXUKWqcuI >}}
+{{< https://www.youtube.com/watch?v=8Y4TYHJeP6E >}}
 
 À REMPLACER PAR LA OU LES BONNES VIDÉOS
 
 ## Prononciation et astuces de chant
 
-À COMPLÉTER SI TU PEUX
+Pour respecter le rythme de la chanson, il est plus simple et plus courant de transformer les 4 syllabes de "te ensinho" en 3, ce qui efface l'un des "e" et donne un résultat que l'on pourrait retranscrire ainsi : "tensinho".
 
 ## Vocabulaire
 
@@ -56,25 +156,33 @@ INTRO
 
 À COMPLÉTER SI TU PEUX:
 
-| Portugais     | Français       |
-| ------------- | -------------- |
-| **mãe**       | mère           |
-| **pai**       | papa           |
-| **lavadeira** | une lavandière |
-| **lembrança** | un souvenir    |
-| **chegada**   | une arrivée    |
-| **colheta**   | une récolte    |
+| Portugais        | Français            |
+| -------------    | --------------      |
+| **marihneiro**   | marin               |
+| **os peixinhos** | les petits poissons |
+| **o peixe**      | le poisson          |
+| **o gaivota**    | le goéland          |
+| **a sereia**     | la sirène           |
+| **o pirata**     | le pirate           |
 
 ### Verbes
 
 | Portugais            | Français         | Infinitif                        |
 | -------------------- | ---------------- | -------------------------------- |
-| **ele nos aprendeu** | il nous a appris | [aprender / apprendre][aprender] |
-| **eu trouxe**        | j'ai apporté     | [trazer / apporter][trazer]      |
+| **Quem te ensinho**  | Qui t'a enseigné | [ensinar / enseigner][ensinar]   |
+| **nadar**            | nager            | [nadar / nager][nadar]           |
+| **voar**             | voler            | [voar / voler][voar]             |
+| **beijar**           | embrasser        | [beijar / embrasser][beijar]     |
 
-[aprender]: https://la-conjugaison.nouvelobs.com/portugais/verbe/aprender.php
-[trazer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/trazer.php
+Le terme de "gingar" est plus spécifique puisqu'il n'a pas de traduction en français, si ce n'est le néologisme "ginger" (verbe) ; il désigne en fait le fait d'effectuer la ginga, le mouvement de base de la capoeira. 
+
+[ensinar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/ensinar.php
+[nadar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/nadar.php
+[voar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/voar.php
+[beijar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/beijar.php
 
 ## Culture
 
-À COMPLÉTER AVEC DES THÈMES DU CHANT SUR LESQUELS TU AIMERAIS DES DÉTAILS
+###  La réputation des marins brésiliens
+
+Le sens de cette chanson se trouve dans la mauvaise réputation qu'ont eu les marins au Brésil à une époque. La personne qui chante, à qui le marin a enseigné la capoeira (qui transparaît dans le terme "gingar") et d'autres aspects de la vie, annonce qui les lui a enseigné mais se corrige vite, en trouvant un autre coupable un tantinet moins crédible : le pirate, la mouette ou encore les poissons...
