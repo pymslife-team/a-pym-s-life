@@ -1,9 +1,9 @@
 ---
-title: Marinheiro so
-subtitle: ???TITRE EN FR
-description: ???
+title: Marinheiro só
+subtitle: Marin solitaire
+description: Une chanson de capoeira qui conte la vie de marin
 date: 2023-07-10
-date-modified: ???
+date-modified: 07/08/2023
 license: CC BY-SA
 author: 
   - Z.
@@ -22,33 +22,64 @@ INTRO
 
 ::: {layout-ncol=2}
 
-### TITRE BR 🇧🇷
+### Marinheiro só 🇧🇷
 
-| COUPLET BR
-|
-| **CHOEUR BR**
-|
-| ETC
+| Eu não sou daqui
+| **Marinheiro só**
+| Eu não tenho amor
+| **Marinheiro só**
+| Eu sou da Bahia
+| **Marinheiro só**
+| De São Salvador
+| **Marinheiro só**
+| Mairheiro, marinheiro
+| **Marinheiro só**
+| Quem te ensinou a nadar
+| **Marinheiro só**
+| Foi o tombo do navio
+| **Marinheiro só**
+| Ou foi o balanço do mar
+| **Marinheiro só**
+| La vem, la vem,
+| **Marinheiro só**
+| Como ele vem façeiro
+| **Marinheiro só**
+| Como todo de branco
+| **Marinheiro só**
+| Com seu bonezinho
 
-### TITRE FR 🇫🇷
+### Marin solitaire 🇫🇷
 
-| COUPLET BR
-|
-| **CHOEUR BR**
-|
-| ETC
+| Je ne suis pas d'ici
+| **Marin solitaire**
+| Je n'ai pas d'amour
+| **Marin solitaire**
+| Je suis de Bahia
+| **Marin solitaire**
+| De São Salvador
+| **Marin solitaire**
+| Marin, Marin
+| **Marin solitaire**
+| Qui t'a appris à nager
+| **Marin solitaire**
+| Etait-ce le roulis du navire
+| **Marin solitaire**
+| Ou était-ce la houle de la mer
+| **Marin solitaire**
+| Il arrive, il arrive
+| **Marin solitaire**
+| Comme il est coquet
+| **Marin solitaire**
+| Tout de blanc vêtu
+| **Marin solitaire**
+| Avec sa petite casquette
+| **Marin solitaire**
 
 :::
 
 ## Vidéo de référence
 
-{{< video https://youtu.be/zRgXUKWqcuI >}}
-
-À REMPLACER PAR LA OU LES BONNES VIDÉOS
-
-## Prononciation et astuces de chant
-
-À COMPLÉTER SI TU PEUX
+{{< https://www.youtube.com/watch?v=mjqG0UlpTb8 >}}
 
 ## Vocabulaire
 
@@ -56,25 +87,36 @@ INTRO
 
 À COMPLÉTER SI TU PEUX:
 
-| Portugais     | Français       |
-| ------------- | -------------- |
-| **mãe**       | mère           |
-| **pai**       | papa           |
-| **lavadeira** | une lavandière |
-| **lembrança** | un souvenir    |
-| **chegada**   | une arrivée    |
-| **colheta**   | une récolte    |
+| Portugais        | Français                 |
+| -------------    | --------------           |
+| **o Marinheiro** | Marin                    |
+| **aqui**         | ici                      |
+| **o navio**      | le navire                |
+| **o mar**        | la mer                   |
+| **o balanço**    | le balancement, la houle |
+| **o boné**       | la casquette, le béret   |
 
 ### Verbes
 
 | Portugais            | Français         | Infinitif                        |
 | -------------------- | ---------------- | -------------------------------- |
-| **ele nos aprendeu** | il nous a appris | [aprender / apprendre][aprender] |
-| **eu trouxe**        | j'ai apporté     | [trazer / apporter][trazer]      |
+| **eu sou**           | je suis          | [ser / être][ser]                |
+| **foi**              | ce fut           | [ser / être][ser]                |
+| **ele vem***         | il vient         | [vir / venir][vir]               |
+| **Quem te ensinho**  | Qui t'a enseigné | [ensinar / enseigner][ensinar]   |
+| **nadar**            | nager            | [nadar / nager][nadar]           |
 
-[aprender]: https://la-conjugaison.nouvelobs.com/portugais/verbe/aprender.php
-[trazer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/trazer.php
+[ser]: https://la-conjugaison.nouvelobs.com/portugais/verbe/ser.php
+[vir]: https://la-conjugaison.nouvelobs.com/portugais/verbe/vir.php
+[ensinar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/ensinar.php
+[nadar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/nadar.php
 
 ## Culture
 
-À COMPLÉTER AVEC DES THÈMES DU CHANT SUR LESQUELS TU AIMERAIS DES DÉTAILS
+### Bahia
+
+L'état de Bahia est l'un des plus grands états fédérés du Brésil. La capoeira y est, historiquement et encore aujourd'hui, très présente, et plusieurs groupes de capoeira français ou non portent d'ailleurs des noms y faisant référence.
+
+### Salvador
+
+Salvador, aussi appelée Salvador da Bahia, est la capitale de l'état de Bahia ; elle est également la ville de naissance de Mestre Bimba, le père de la capoeira régionale.
