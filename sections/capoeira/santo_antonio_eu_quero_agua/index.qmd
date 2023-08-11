@@ -1,9 +1,9 @@
 ---
-title: Santo Antônio eu quero água
-subtitle: ???TITRE EN FR
+title: Santo António eu quero água
+subtitle: Saint Antoine je veux de l'eau
 description: ???
 date: 2023-07-10
-date-modified: ???
+date-modified: 11/08/2023
 license: CC BY-SA
 author: 
   - Z.
@@ -22,33 +22,47 @@ INTRO
 
 ::: {layout-ncol=2}
 
-### TITRE BR 🇧🇷
+### Santo António eu quero água 🇧🇷
 
-| COUPLET BR
+| Santo António eu quero água
 |
-| **CHOEUR BR**
+| **Santo António eu quero água**
 |
-| ETC
+| Quero água pra beber
+| Quero água pra lavar
+| Quero água pra benzer
+| Eu quero água
+|
+| **Quero água pra beber**
+| **Quero água pra lavar**
+| **Quero água pra benzer**
+| **Eu quero água**
 
-### TITRE FR 🇫🇷
+### Saint Antoine je veux de l'eau 🇫🇷
 
-| COUPLET BR
+| Saint Antoine je veux de l'eau
 |
-| **CHOEUR BR**
+| **Saint Antoine je veux de l'eau**
 |
-| ETC
+| Je veux de l'eau pour boire
+| Je veux de l'eau pour laver
+| Je veux de l'eau pour bénir
+| Je veux de l'eau
+|
+| **Je veux de l'eau pour boire**
+| **Je veux de l'eau pour laver**
+| **Je veux de l'eau pour bénir**
+| **Je veux de l'eau**
 
 :::
 
 ## Vidéo de référence
 
-{{< video https://youtu.be/zRgXUKWqcuI >}}
-
-À REMPLACER PAR LA OU LES BONNES VIDÉOS
+{{< https://www.youtube.com/watch?v=w5t71QK-eqw >}}
 
 ## Prononciation et astuces de chant
 
-À COMPLÉTER SI TU PEUX
+Dans cette chanson, par souci du rythme, il est courant de ne pas respecter la présence du mot "eu" ("je"), souvent éludé, notamment dans la première phrase.
 
 ## Vocabulaire
 
@@ -58,23 +72,23 @@ INTRO
 
 | Portugais     | Français       |
 | ------------- | -------------- |
-| **mãe**       | mère           |
-| **pai**       | papa           |
-| **lavadeira** | une lavandière |
-| **lembrança** | un souvenir    |
-| **chegada**   | une arrivée    |
-| **colheta**   | une récolte    |
+| **a água**    | l'eau          |
+
 
 ### Verbes
 
 | Portugais            | Français         | Infinitif                        |
 | -------------------- | ---------------- | -------------------------------- |
-| **ele nos aprendeu** | il nous a appris | [aprender / apprendre][aprender] |
-| **eu trouxe**        | j'ai apporté     | [trazer / apporter][trazer]      |
+| **Eu quero** | je veux | [querer / vouloir][querer] |
+| **beber**        | boire     | [beber / boire][beber]      |
+| **lavar**        | laver     | [lavar / laver][lavar]      |
+| **benzer**        | bénir     | [benzer / bénir][benzer]      |
 
-[aprender]: https://la-conjugaison.nouvelobs.com/portugais/verbe/aprender.php
-[trazer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/trazer.php
+[querer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/querer.php
+[beber]: https://la-conjugaison.nouvelobs.com/portugais/verbe/beber.php
+[lavar]: https://la-conjugaison.nouvelobs.com/portugais/verbe/lavar.php
+[benzer]: https://la-conjugaison.nouvelobs.com/portugais/verbe/benzer.php
 
 ## Culture
 
-À COMPLÉTER AVEC DES THÈMES DU CHANT SUR LESQUELS TU AIMERAIS DES DÉTAILS
+### Santo António
