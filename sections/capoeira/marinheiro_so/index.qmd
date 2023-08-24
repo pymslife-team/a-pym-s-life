@@ -3,7 +3,7 @@ title: Marinheiro só
 subtitle: Marin solitaire
 description: Une chanson de capoeira qui conte la vie de marin
 date: 2023-07-10
-date-modified: 07/08/2023
+date-modified: 07-08-2023
 license: CC BY-SA
 author: 
   - Z.
